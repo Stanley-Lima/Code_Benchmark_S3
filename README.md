@@ -51,10 +51,11 @@ Maven Dependency:
 - ```start /b java -jar writer/target/writer-1.0-SNAPSHOT.jar```
 - ```//java -jar reader/target/reader-1.0-SNAPSHOT.jar```
 - ```//Server class S3ServerReaderSocketInputHandlerFactory, (ServerFrame, ClientWrite, ClientReader) or runClientWriterServer.bat```
-
+If you have all configurations performed, you can use the "runAllMicrocervices.bat" file to run all microservices together.
 ##### Notes
 - choose different ports for communication between the microservice. (e.g. `9999` to `Writer C1` and `2222` to `Reader C2`).
-- disable the firewall if the microservice is in different region or different machines
+- disable the firewall if the microservice is in different region or different machines.
+- the logs in the files, "logReader", "logWritter", "outPut", "outPutRTRT" and "outPutThroughtput" are results referring to the above paper.
 
 
 
