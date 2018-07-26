@@ -1,6 +1,7 @@
 # MIT - MIcroservice Trade-offs
 
 **Data getting final causality consistent guarantee on eventually consistent data store**
+![benchmark-1-page-3](https://user-images.githubusercontent.com/7977251/43281928-ccee4180-910c-11e8-9f59-85cd05a00e1a.png)
 
 This experiment was developed under the PDCTI | DOCTORAL PLAN IN INFORMATION SCIENCES AND TECHNOLOGIES.
 The different lemmas, experimental results and analysis of the  different strategies for implementing Causal order and different benchmarks for performance comparison of these strategies, were submitted to Journal of parallel and distributed computing.
