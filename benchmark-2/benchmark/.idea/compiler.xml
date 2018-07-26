@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="amazon" />
+        <module name="reader" />
+        <module name="server" />
+        <module name="socket-utils" />
+        <module name="writer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amazon" target="1.8" />
+      <module name="benchmark" target="1.8" />
+      <module name="reader" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="socket-utils" target="1.8" />
+      <module name="writer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

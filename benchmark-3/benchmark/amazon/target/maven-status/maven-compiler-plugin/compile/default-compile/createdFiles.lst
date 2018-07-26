@@ -1,0 +1,4 @@
+pt\uc\fct\s3\benchmark\amazon\BucketAndPost.class
+pt\uc\fct\s3\benchmark\amazon\ConsistencyVerification.class
+pt\uc\fct\s3\benchmark\amazon\Credentials.class
+pt\uc\fct\s3\benchmark\amazon\Worker.class

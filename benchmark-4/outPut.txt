@@ -1,0 +1,1200 @@
+%S3 Get result | TEXT FILE PARSING: W 1 2018-07-18 14:27:01.788   ---Request:  1
+  Throughtput =  2.856790574053782E-10
+RTRT: 3500431600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 1 2018-07-18 14:27:01.788   ---Request:  2
+  Throughtput =  5.216755132400202E-10
+RTRT: 333369200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 1 2018-07-18 14:27:01.788   ---Request:  3
+  Throughtput =  7.166830532265215E-10
+RTRT: 352150000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 2 2018-07-18 14:27:06.319   ---Request:  4
+  Throughtput =  8.874615155087117E-10
+RTRT: 321286900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 3 2018-07-18 14:27:06.944   ---Request:  5
+  Throughtput =  1.0440060013640983E-9
+RTRT: 282006800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 3 2018-07-18 14:27:06.944   ---Request:  6
+  Throughtput =  1.1653784702542972E-9
+RTRT: 359297500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 5 2018-07-18 14:27:08.272   ---Request:  7
+  Throughtput =  1.3262695710732422E-9
+RTRT: 129419700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 6 2018-07-18 14:27:08.835   ---Request:  8
+  Throughtput =  1.4273369859838363E-9
+RTRT: 326881500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 6 2018-07-18 14:27:08.835   ---Request:  9
+  Throughtput =  1.5635041170885302E-9
+RTRT: 151457600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 8 2018-07-18 14:27:09.944   ---Request:  10
+  Throughtput =  1.6900075010982937E-9
+RTRT: 160832700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 8 2018-07-18 14:27:09.944   ---Request:  11
+  Throughtput =  1.8140142628355608E-9
+RTRT: 146765900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 8 2018-07-18 14:27:09.944   ---Request:  12
+  Throughtput =  1.9226593300977436E-9
+RTRT: 177455900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 10 2018-07-18 14:27:10.991   ---Request:  13
+  Throughtput =  1.991014734290124E-9
+RTRT: 287978600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 11 2018-07-18 14:27:11.444   ---Request:  14
+  Throughtput =  2.0589821013127142E-9
+RTRT: 270142400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 14 2018-07-18 14:27:12.960   ---Request:  15
+  Throughtput =  2.101673234535636E-9
+RTRT: 337694100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 15 2018-07-18 14:27:13.585   ---Request:  16
+  Throughtput =  2.1393964112882095E-9
+RTRT: 341574500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 15 2018-07-18 14:27:13.585   ---Request:  17
+  Throughtput =  2.23312474590817E-9
+RTRT: 133906400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 15 2018-07-18 14:27:13.585   ---Request:  18
+  Throughtput =  2.3265572869364043E-9
+RTRT: 124102100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 16 2018-07-18 14:27:15.272   ---Request:  19
+  Throughtput =  2.389666398294553E-9
+RTRT: 214147200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 17 2018-07-18 14:27:15.897   ---Request:  20
+  Throughtput =  2.474544607081414E-9
+RTRT: 131394600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 18 2018-07-18 14:27:16.304   ---Request:  21
+  Throughtput =  2.510264651464456E-9
+RTRT: 283356600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 18 2018-07-18 14:27:16.304   ---Request:  22
+  Throughtput =  2.5413855100109623E-9
+RTRT: 291043500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 21 2018-07-18 14:27:17.585   ---Request:  23
+  Throughtput =  2.604584632903104E-9
+RTRT: 173887400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 21 2018-07-18 14:27:17.585   ---Request:  24
+  Throughtput =  2.6304855652762226E-9
+RTRT: 293208100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 23 2018-07-18 14:27:18.742   ---Request:  25
+  Throughtput =  2.652872465575637E-9
+RTRT: 299956600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 23 2018-07-18 14:27:18.742   ---Request:  26
+  Throughtput =  2.716559556728529E-9
+RTRT: 147182100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 23 2018-07-18 14:27:18.742   ---Request:  27
+  Throughtput =  2.7403239769335363E-9
+RTRT: 281920100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 25 2018-07-18 14:27:19.835   ---Request:  28
+  Throughtput =  2.765942917201074E-9
+RTRT: 270280500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 26 2018-07-18 14:27:20.413   ---Request:  29
+  Throughtput =  2.8251416840215607E-9
+RTRT: 141841800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 26 2018-07-18 14:27:20.413   ---Request:  30
+  Throughtput =  2.88742212550342E-9
+RTRT: 124918700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 28 2018-07-18 14:27:21.413   ---Request:  31
+  Throughtput =  2.8882061666406636E-9
+RTRT: 343415200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 30 2018-07-18 14:27:22.397   ---Request:  32
+  Throughtput =  2.88640440026578E-9
+RTRT: 353151800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 31 2018-07-18 14:27:22.835   ---Request:  33
+  Throughtput =  2.8604910185392846E-9
+RTRT: 450023300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 32 2018-07-18 14:27:23.475   ---Request:  34
+  Throughtput =  2.8618674154568803E-9
+RTRT: 343873800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 35 2018-07-18 14:27:25.397   ---Request:  35
+  Throughtput =  2.5369369319218337E-9
+RTRT: 1915810100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 35 2018-07-18 14:27:25.397   ---Request:  36
+  Throughtput =  2.5477235866827175E-9
+RTRT: 334096500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 35 2018-07-18 14:27:25.397   ---Request:  37
+  Throughtput =  2.5913857616757565E-9
+RTRT: 147813600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 36 2018-07-18 14:27:27.569   ---Request:  38
+  Throughtput =  2.599515578903705E-9
+RTRT: 340033300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 37 2018-07-18 14:27:28.163   ---Request:  39
+  Throughtput =  2.641285099792187E-9
+RTRT: 147431500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 37 2018-07-18 14:27:28.163   ---Request:  40
+  Throughtput =  2.680845839032365E-9
+RTRT: 155124300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 38 2018-07-18 14:27:28.631   ---Request:  41
+  Throughtput =  2.7294258145525315E-9
+RTRT: 100810400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 39 2018-07-18 14:27:29.209   ---Request:  42
+  Throughtput =  2.767308894490537E-9
+RTRT: 155725400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 40 2018-07-18 14:27:29.616   ---Request:  43
+  Throughtput =  2.808648728201726E-9
+RTRT: 132653500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 40 2018-07-18 14:27:29.616   ---Request:  44
+  Throughtput =  2.8534013809035985E-9
+RTRT: 110339700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 42 2018-07-18 14:27:30.428   ---Request:  45
+  Throughtput =  2.8593853777818057E-9
+RTRT: 317454800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 44 2018-07-18 14:27:31.298   ---Request:  46
+  Throughtput =  2.899446173004608E-9
+RTRT: 127451000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 44 2018-07-18 14:27:31.298   ---Request:  47
+  Throughtput =  2.9443458986489485E-9
+RTRT: 97699600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 45 2018-07-18 14:27:31.694   ---Request:  48
+  Throughtput =  2.9721677297285033E-9
+RTRT: 187030400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 46 2018-07-18 14:27:32.459   ---Request:  49
+  Throughtput =  3.012911932467387E-9
+RTRT: 113507500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 47 2018-07-18 14:27:32.913   ---Request:  50
+  Throughtput =  3.0546625572006183E-9
+RTRT: 105083800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 49 2018-07-18 14:27:33.803   ---Request:  51
+  Throughtput =  3.0884708461251035E-9
+RTRT: 144606100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 50 2018-07-18 14:27:34.241   ---Request:  52
+  Throughtput =  3.0932309565890494E-9
+RTRT: 297875000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 51 2018-07-18 14:27:34.662   ---Request:  53
+  Throughtput =  3.0709291936435244E-9
+RTRT: 447718800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 53 2018-07-18 14:27:36.131   ---Request:  54
+  Throughtput =  3.073205094137935E-9
+RTRT: 312612100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 53 2018-07-18 14:27:36.131   ---Request:  55
+  Throughtput =  3.1074679483325937E-9
+RTRT: 128065500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 53 2018-07-18 14:27:36.131   ---Request:  56
+  Throughtput =  3.1158916332283735E-9
+RTRT: 273086100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 53 2018-07-18 14:27:36.131   ---Request:  57
+  Throughtput =  3.1225045128818182E-9
+RTRT: 282193600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 54 2018-07-18 14:27:36.834   ---Request:  58
+  Throughtput =  3.1180683794330963E-9
+RTRT: 346682500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 55 2018-07-18 14:27:37.834   ---Request:  59
+  Throughtput =  3.153957775989347E-9
+RTRT: 105395200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 57 2018-07-18 14:27:38.991   ---Request:  60
+  Throughtput =  3.161089616843221E-9
+RTRT: 274141900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 57 2018-07-18 14:27:38.991   ---Request:  61
+  Throughtput =  3.191215531589492E-9
+RTRT: 134176500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 59 2018-07-18 14:27:40.164   ---Request:  62
+  Throughtput =  3.1933138682654607E-9
+RTRT: 300593800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 61 2018-07-18 14:27:41.131   ---Request:  63
+  Throughtput =  3.189274092563689E-9
+RTRT: 338144200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 61 2018-07-18 14:27:41.131   ---Request:  64
+  Throughtput =  3.179943381604957E-9
+RTRT: 372433100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 63 2018-07-18 14:27:42.100   ---Request:  65
+  Throughtput =  3.186406245834693E-9
+RTRT: 273012100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 64 2018-07-18 14:27:42.740   ---Request:  66
+  Throughtput =  3.2133133687901692E-9
+RTRT: 140390100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 64 2018-07-18 14:27:42.740   ---Request:  67
+  Throughtput =  3.221117236917557E-9
+RTRT: 260689700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 65 2018-07-18 14:27:43.381   ---Request:  68
+  Throughtput =  3.2156139621390776E-9
+RTRT: 346580600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 67 2018-07-18 14:27:44.459   ---Request:  69
+  Throughtput =  3.192439282199182E-9
+RTRT: 466749900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 68 2018-07-18 14:27:45.037   ---Request:  70
+  Throughtput =  3.2233264361361713E-9
+RTRT: 103129000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 68 2018-07-18 14:27:45.037   ---Request:  71
+  Throughtput =  3.224202700083575E-9
+RTRT: 304252100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 70 2018-07-18 14:27:46.928   ---Request:  72
+  Throughtput =  3.1707190437745507E-9
+RTRT: 686835000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 73 2018-07-18 14:27:48.928   ---Request:  73
+  Throughtput =  3.1733925105250237E-9
+RTRT: 295989700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 73 2018-07-18 14:27:48.928   ---Request:  74
+  Throughtput =  3.2025266792976627E-9
+RTRT: 102982500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 73 2018-07-18 14:27:48.928   ---Request:  75
+  Throughtput =  3.2095423683000877E-9
+RTRT: 261062200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 74 2018-07-18 14:27:50.850   ---Request:  76
+  Throughtput =  3.238108073663482E-9
+RTRT: 102677800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 74 2018-07-18 14:27:50.850   ---Request:  77
+  Throughtput =  3.2592591350970065E-9
+RTRT: 154505700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 74 2018-07-18 14:27:50.850   ---Request:  78
+  Throughtput =  3.2875257226233372E-9
+RTRT: 101049200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 75 2018-07-18 14:27:51.818   ---Request:  79
+  Throughtput =  3.3126685435435938E-9
+RTRT: 121793100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 78 2018-07-18 14:27:53.146   ---Request:  80
+  Throughtput =  3.3070608705271406E-9
+RTRT: 342821300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 78 2018-07-18 14:27:53.146   ---Request:  81
+  Throughtput =  3.3259176592792642E-9
+RTRT: 163516300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 80 2018-07-18 14:27:53.896   ---Request:  82
+  Throughtput =  3.353173735185525E-9
+RTRT: 100263400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 81 2018-07-18 14:27:54.521   ---Request:  83
+  Throughtput =  3.375046989396684E-9
+RTRT: 137806000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 81 2018-07-18 14:27:54.521   ---Request:  84
+  Throughtput =  3.336249917432779E-9
+RTRT: 585719700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 83 2018-07-18 14:27:56.193   ---Request:  85
+  Throughtput =  3.2716996315230967E-9
+RTRT: 802410200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 84 2018-07-18 14:27:56.584   ---Request:  86
+  Throughtput =  3.2908265180188595E-9
+RTRT: 152872300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 85 2018-07-18 14:27:57.474   ---Request:  87
+  Throughtput =  3.306619031487561E-9
+RTRT: 177610500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 85 2018-07-18 14:27:57.474   ---Request:  88
+  Throughtput =  3.311583966248216E-9
+RTRT: 262523400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 86 2018-07-18 14:27:58.615   ---Request:  89
+  Throughtput =  3.3377006834257167E-9
+RTRT: 91677000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 86 2018-07-18 14:27:58.615   ---Request:  90
+  Throughtput =  3.3601843424011715E-9
+RTRT: 119181500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 88 2018-07-18 14:27:59.709   ---Request:  91
+  Throughtput =  3.3616973406402893E-9
+RTRT: 285414000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 91 2018-07-18 14:28:00.974   ---Request:  92
+  Throughtput =  3.385439528541336E-9
+RTRT: 105542300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 91 2018-07-18 14:28:00.974   ---Request:  93
+  Throughtput =  3.4092384511332627E-9
+RTRT: 103618300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 91 2018-07-18 14:28:00.974   ---Request:  94
+  Throughtput =  3.430260050714862E-9
+RTRT: 124350800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 92 2018-07-18 14:28:01.521   ---Request:  95
+  Throughtput =  3.4533299075331294E-9
+RTRT: 106509600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 92 2018-07-18 14:28:01.521   ---Request:  96
+  Throughtput =  3.440427559708387E-9
+RTRT: 393828800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 92 2018-07-18 14:28:01.521   ---Request:  97
+  Throughtput =  3.4598208772261697E-9
+RTRT: 132624900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 96 2018-07-18 14:28:04.896   ---Request:  98
+  Throughtput =  3.4736859358027676E-9
+RTRT: 175973700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 96 2018-07-18 14:28:04.896   ---Request:  99
+  Throughtput =  3.41902426952935E-9
+RTRT: 743522300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 99 2018-07-18 14:28:06.443   ---Request:  100
+  Throughtput =  3.442767931985558E-9
+RTRT: 90766300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 99 2018-07-18 14:28:06.443   ---Request:  101
+  Throughtput =  3.465542260843323E-9
+RTRT: 97672400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 99 2018-07-18 14:28:06.443   ---Request:  102
+  Throughtput =  3.478052435486782E-9
+RTRT: 182689200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 100 2018-07-18 14:28:07.459   ---Request:  103
+  Throughtput =  3.4917200368164248E-9
+RTRT: 171598400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 101 2018-07-18 14:28:07.834   ---Request:  104
+  Throughtput =  3.511719938146861E-9
+RTRT: 116762100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 102 2018-07-18 14:28:08.209   ---Request:  105
+  Throughtput =  3.5312579300912833E-9
+RTRT: 119328600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 103 2018-07-18 14:28:08.693   ---Request:  106
+  Throughtput =  3.5513909369367683E-9
+RTRT: 113013800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 104 2018-07-18 14:28:09.146   ---Request:  107
+  Throughtput =  3.5292305535595153E-9
+RTRT: 470763000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 105 2018-07-18 14:28:09.505   ---Request:  108
+  Throughtput =  3.548834594428684E-9
+RTRT: 114302400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 106 2018-07-18 14:28:09.943   ---Request:  109
+  Throughtput =  3.565000567031329E-9
+RTRT: 142504500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 107 2018-07-18 14:28:10.349   ---Request:  110
+  Throughtput =  3.585609505682886E-9
+RTRT: 103157100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 107 2018-07-18 14:28:10.349   ---Request:  111
+  Throughtput =  3.535801706022412E-9
+RTRT: 714975900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 110 2018-07-18 14:28:11.865   ---Request:  112
+  Throughtput =  3.5181619172077617E-9
+RTRT: 441642200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 110 2018-07-18 14:28:11.865   ---Request:  113
+  Throughtput =  3.5375342416487825E-9
+RTRT: 108348300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 112 2018-07-18 14:28:13.255   ---Request:  114
+  Throughtput =  3.5568677776805256E-9
+RTRT: 107517600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 112 2018-07-18 14:28:13.255   ---Request:  115
+  Throughtput =  3.575303745448098E-9
+RTRT: 114428000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 112 2018-07-18 14:28:13.255   ---Request:  116
+  Throughtput =  3.591822971010245E-9
+RTRT: 130479000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 114 2018-07-18 14:28:14.302   ---Request:  117
+  Throughtput =  3.606820820010035E-9
+RTRT: 142961300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 114 2018-07-18 14:28:14.302   ---Request:  118
+  Throughtput =  3.6213813067249293E-9
+RTRT: 145712100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 116 2018-07-18 14:28:15.115   ---Request:  119
+  Throughtput =  3.6357764792936466E-9
+RTRT: 146033200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 117 2018-07-18 14:28:15.630   ---Request:  120
+  Throughtput =  3.649525417539466E-9
+RTRT: 150702700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 118 2018-07-18 14:28:16.052   ---Request:  121
+  Throughtput =  3.668982139058371E-9
+RTRT: 98186300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 118 2018-07-18 14:28:16.052   ---Request:  122
+  Throughtput =  3.6844088660878073E-9
+RTRT: 133329200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 119 2018-07-18 14:28:16.458   ---Request:  123
+  Throughtput =  3.701557346592364E-9
+RTRT: 116753800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 121 2018-07-18 14:28:17.271   ---Request:  124
+  Throughtput =  3.719899332084275E-9
+RTRT: 104978500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 122 2018-07-18 14:28:17.630   ---Request:  125
+  Throughtput =  3.735804559083236E-9
+RTRT: 125759100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 123 2018-07-18 14:28:18.021   ---Request:  126
+  Throughtput =  3.73462753946003E-9
+RTRT: 278309700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 126 2018-07-18 14:28:19.208   ---Request:  127
+  Throughtput =  3.747106617778865E-9
+RTRT: 154513100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 126 2018-07-18 14:28:19.208   ---Request:  128
+  Throughtput =  3.749794438758965E-9
+RTRT: 242387200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 126 2018-07-18 14:28:19.208   ---Request:  129
+  Throughtput =  3.7571243268642125E-9
+RTRT: 199565600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 126 2018-07-18 14:28:19.208   ---Request:  130
+  Throughtput =  3.77113788051724E-9
+RTRT: 137583900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 128 2018-07-18 14:28:20.271   ---Request:  131
+  Throughtput =  3.786832755262714E-9
+RTRT: 121199100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 128 2018-07-18 14:28:20.271   ---Request:  132
+  Throughtput =  3.799857651575012E-9
+RTRT: 144590300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 130 2018-07-18 14:28:21.255   ---Request:  133
+  Throughtput =  3.812682703826834E-9
+RTRT: 145430800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 131 2018-07-18 14:28:21.646   ---Request:  134
+  Throughtput =  3.826885969584784E-9
+RTRT: 131840700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 132 2018-07-18 14:28:22.021   ---Request:  135
+  Throughtput =  3.839885184361079E-9
+RTRT: 141886300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 135 2018-07-18 14:28:23.224   ---Request:  136
+  Throughtput =  3.847938773929627E-9
+RTRT: 186296500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 135 2018-07-18 14:28:23.224   ---Request:  137
+  Throughtput =  3.864682699550148E-9
+RTRT: 105625600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 135 2018-07-18 14:28:23.224   ---Request:  138
+  Throughtput =  3.8658803410025815E-9
+RTRT: 247691200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 135 2018-07-18 14:28:23.224   ---Request:  139
+  Throughtput =  3.862281918960601E-9
+RTRT: 292172500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 138 2018-07-18 14:28:24.615   ---Request:  140
+  Throughtput =  3.879442511031901E-9
+RTRT: 98572400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 138 2018-07-18 14:28:24.615   ---Request:  141
+  Throughtput =  3.8950976822679815E-9
+RTRT: 111689500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 139 2018-07-18 14:28:25.146   ---Request:  142
+  Throughtput =  3.9087488702924384E-9
+RTRT: 129411200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 139 2018-07-18 14:28:25.146   ---Request:  143
+  Throughtput =  3.9227077563958326E-9
+RTRT: 125650700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 140 2018-07-18 14:28:25.771   ---Request:  144
+  Throughtput =  3.938239198267266E-9
+RTRT: 110153400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 142 2018-07-18 14:28:26.505   ---Request:  145
+  Throughtput =  3.953941263564446E-9
+RTRT: 107705400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 143 2018-07-18 14:28:26.974   ---Request:  146
+  Throughtput =  3.957319292287438E-9
+RTRT: 221392300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 143 2018-07-18 14:28:26.974   ---Request:  147
+  Throughtput =  3.971681725572615E-9
+RTRT: 118367300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 145 2018-07-18 14:28:27.771   ---Request:  148
+  Throughtput =  3.975191645466495E-9
+RTRT: 218880200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 146 2018-07-18 14:28:28.146   ---Request:  149
+  Throughtput =  3.989913338412841E-9
+RTRT: 113260100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 149 2018-07-18 14:28:29.443   ---Request:  150
+  Throughtput =  4.000285588388726E-9
+RTRT: 153153300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 149 2018-07-18 14:28:29.443   ---Request:  151
+  Throughtput =  4.014111553340376E-9
+RTRT: 119967600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 149 2018-07-18 14:28:29.443   ---Request:  152
+  Throughtput =  4.029145951157357E-9
+RTRT: 107826000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 149 2018-07-18 14:28:29.443   ---Request:  153
+  Throughtput =  4.039628928769167E-9
+RTRT: 149649500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 149 2018-07-18 14:28:29.443   ---Request:  154
+  Throughtput =  4.050369639363398E-9
+RTRT: 146455300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 151 2018-07-18 14:28:30.786   ---Request:  155
+  Throughtput =  4.065634256465581E-9
+RTRT: 103211600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 151 2018-07-18 14:28:30.786   ---Request:  156
+  Throughtput =  4.080902286867795E-9
+RTRT: 102407500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 152 2018-07-18 14:28:31.177   ---Request:  157
+  Throughtput =  4.096556953730738E-9
+RTRT: 98026600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 154 2018-07-18 14:28:31.942   ---Request:  158
+  Throughtput =  4.112629491605696E-9
+RTRT: 93376300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 155 2018-07-18 14:28:32.364   ---Request:  159
+  Throughtput =  4.127102302110902E-9
+RTRT: 107576700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 157 2018-07-18 14:28:33.083   ---Request:  160
+  Throughtput =  4.138175136872341E-9
+RTRT: 138565900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 157 2018-07-18 14:28:33.083   ---Request:  161
+  Throughtput =  4.15424799169396E-9
+RTRT: 91124300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 158 2018-07-18 14:28:33.474   ---Request:  162
+  Throughtput =  4.166558634059697E-9
+RTRT: 125498000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 159 2018-07-18 14:28:33.849   ---Request:  163
+  Throughtput =  4.1827896742617385E-9
+RTRT: 88199700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 161 2018-07-18 14:28:34.630   ---Request:  164
+  Throughtput =  4.05480723717127E-9
+RTRT: 1476611300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 164 2018-07-18 14:28:35.942   ---Request:  165
+  Throughtput =  4.039233866810944E-9
+RTRT: 403511600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 164 2018-07-18 14:28:35.942   ---Request:  166
+  Throughtput =  4.036120016071052E-9
+RTRT: 279277800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 165 2018-07-18 14:28:37.692   ---Request:  167
+  Throughtput =  4.029950884551294E-9
+RTRT: 311102500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 167 2018-07-18 14:28:38.974   ---Request:  168
+  Throughtput =  3.972819247684955E-9
+RTRT: 847639500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 167 2018-07-18 14:28:38.974   ---Request:  169
+  Throughtput =  3.985953161427617E-9
+RTRT: 111542100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 168 2018-07-18 14:28:39.692   ---Request:  170
+  Throughtput =  3.984702025740472E-9
+RTRT: 264272400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 168 2018-07-18 14:28:39.692   ---Request:  171
+  Throughtput =  3.999318684488529E-9
+RTRT: 94117800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 169 2018-07-18 14:28:40.802   ---Request:  172
+  Throughtput =  3.997717368461728E-9
+RTRT: 267269500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 170 2018-07-18 14:28:41.161   ---Request:  173
+  Throughtput =  3.99645951572419E-9
+RTRT: 263763100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 170 2018-07-18 14:28:41.161   ---Request:  174
+  Throughtput =  4.009958071763173E-9
+RTRT: 103659500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 172 2018-07-18 14:28:42.036   ---Request:  175
+  Throughtput =  4.008206562444211E-9
+RTRT: 268449600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 173 2018-07-18 14:28:42.598   ---Request:  176
+  Throughtput =  4.016245338151781E-9
+RTRT: 161599600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 173 2018-07-18 14:28:42.598   ---Request:  177
+  Throughtput =  4.015049403254776E-9
+RTRT: 262115900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 176 2018-07-18 14:28:44.020   ---Request:  178
+  Throughtput =  4.029562044332653E-9
+RTRT: 89395000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 176 2018-07-18 14:28:44.020   ---Request:  179
+  Throughtput =  4.041202639148247E-9
+RTRT: 120210200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 176 2018-07-18 14:28:44.020   ---Request:  180
+  Throughtput =  4.054113021310566E-9
+RTRT: 105609000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 178 2018-07-18 14:28:45.239   ---Request:  181
+  Throughtput =  4.053728175953697E-9
+RTRT: 250901600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 179 2018-07-18 14:28:45.583   ---Request:  182
+  Throughtput =  4.051700671191598E-9
+RTRT: 269153300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 180 2018-07-18 14:28:45.989   ---Request:  183
+  Throughtput =  4.0639767656008125E-9
+RTRT: 110375900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 180 2018-07-18 14:28:45.989   ---Request:  184
+  Throughtput =  4.07808531589414E-9
+RTRT: 89428000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 182 2018-07-18 14:28:47.099   ---Request:  185
+  Throughtput =  4.0731803881252126E-9
+RTRT: 299841000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 183 2018-07-18 14:28:47.614   ---Request:  186
+  Throughtput =  4.069240222641259E-9
+RTRT: 289724500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 185 2018-07-18 14:28:48.364   ---Request:  187
+  Throughtput =  4.079063381782528E-9
+RTRT: 135078900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 186 2018-07-18 14:28:48.911   ---Request:  188
+  Throughtput =  4.076349726825483E-9
+RTRT: 275836100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 186 2018-07-18 14:28:48.911   ---Request:  189
+  Throughtput =  4.087056191190465E-9
+RTRT: 123859600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 187 2018-07-18 14:28:49.473   ---Request:  190
+  Throughtput =  4.086323664844929E-9
+RTRT: 253008500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 188 2018-07-18 14:28:49.864   ---Request:  191
+  Throughtput =  4.094919917816544E-9
+RTRT: 146597200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 190 2018-07-18 14:28:50.801   ---Request:  192
+  Throughtput =  4.1028909574435175E-9
+RTRT: 153112900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 191 2018-07-18 14:28:51.324   ---Request:  193
+  Throughtput =  4.057600545233871E-9
+RTRT: 768785000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 193 2018-07-18 14:28:52.176   ---Request:  194
+  Throughtput =  4.06582036713528E-9
+RTRT: 149791100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 193 2018-07-18 14:28:52.176   ---Request:  195
+  Throughtput =  4.077110375996262E-9
+RTRT: 113143600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 193 2018-07-18 14:28:52.176   ---Request:  196
+  Throughtput =  4.089595680078291E-9
+RTRT: 98506800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 193 2018-07-18 14:28:52.176   ---Request:  197
+  Throughtput =  4.088549591204086E-9
+RTRT: 256847900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 194 2018-07-18 14:28:53.254   ---Request:  198
+  Throughtput =  4.0583045713636335E-9
+RTRT: 605500700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 197 2018-07-18 14:28:54.364   ---Request:  199
+  Throughtput =  4.071462922825977E-9
+RTRT: 87933800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 197 2018-07-18 14:28:54.364   ---Request:  200
+  Throughtput =  4.082001824307845E-9
+RTRT: 118787900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 198 2018-07-18 14:28:54.879   ---Request:  201
+  Throughtput =  4.095216088569427E-9
+RTRT: 86090600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 198 2018-07-18 14:28:54.879   ---Request:  202
+  Throughtput =  4.093981197264493E-9
+RTRT: 259065800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 199 2018-07-18 14:28:55.723   ---Request:  203
+  Throughtput =  4.106167605132621E-9
+RTRT: 97101200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 200 2018-07-18 14:28:56.067   ---Request:  204
+  Throughtput =  4.102996590172503E-9
+RTRT: 281932500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 201 2018-07-18 14:28:56.426   ---Request:  205
+  Throughtput =  4.114249935048035E-9
+RTRT: 107063600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 202 2018-07-18 14:28:56.770   ---Request:  206
+  Throughtput =  4.125314741989659E-9
+RTRT: 108761600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 204 2018-07-18 14:28:57.614   ---Request:  207
+  Throughtput =  4.136117691034958E-9
+RTRT: 111348000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 204 2018-07-18 14:28:57.614   ---Request:  208
+  Throughtput =  4.147594329685007E-9
+RTRT: 102620800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 208 2018-07-18 14:28:59.223   ---Request:  209
+  Throughtput =  4.0370955770691545E-9
+RTRT: 1620338900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 209 2018-07-18 14:28:59.629   ---Request:  210
+  Throughtput =  4.046012853454553E-9
+RTRT: 133057800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 209 2018-07-18 14:28:59.629   ---Request:  211
+  Throughtput =  4.053467752420214E-9
+RTRT: 151245500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 209 2018-07-18 14:28:59.629   ---Request:  212
+  Throughtput =  4.0651413123847755E-9
+RTRT: 96513800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 210 2018-07-18 14:29:01.520   ---Request:  213
+  Throughtput =  4.071332170966087E-9
+RTRT: 166319600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 210 2018-07-18 14:29:01.520   ---Request:  214
+  Throughtput =  4.0800983555373305E-9
+RTRT: 132687800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 211 2018-07-18 14:29:01.911   ---Request:  215
+  Throughtput =  4.0908131522595845E-9
+RTRT: 107072100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 213 2018-07-18 14:29:02.707   ---Request:  216
+  Throughtput =  4.101585642627324E-9
+RTRT: 105771900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 213 2018-07-18 14:29:02.707   ---Request:  217
+  Throughtput =  4.113243297230266E-9
+RTRT: 93862200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 215 2018-07-18 14:29:03.514   ---Request:  218
+  Throughtput =  4.124024131034821E-9
+RTRT: 104568200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 216 2018-07-18 14:29:03.895   ---Request:  219
+  Throughtput =  4.135713971408117E-9
+RTRT: 92381500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 217 2018-07-18 14:29:04.270   ---Request:  220
+  Throughtput =  4.146558082459046E-9
+RTRT: 102679800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 217 2018-07-18 14:29:04.270   ---Request:  221
+  Throughtput =  4.155282344675936E-9
+RTRT: 129263200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 217 2018-07-18 14:29:04.270   ---Request:  222
+  Throughtput =  4.166756258182608E-9
+RTRT: 93539500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 217 2018-07-18 14:29:04.270   ---Request:  223
+  Throughtput =  4.174119911851946E-9
+RTRT: 145581100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 217 2018-07-18 14:29:04.270   ---Request:  224
+  Throughtput =  4.182903506074239E-9
+RTRT: 126883500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 222 2018-07-18 14:29:06.442   ---Request:  225
+  Throughtput =  4.180497595227285E-9
+RTRT: 270025200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 224 2018-07-18 14:29:07.239   ---Request:  226
+  Throughtput =  4.190540128971067E-9
+RTRT: 109651100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 224 2018-07-18 14:29:07.239   ---Request:  227
+  Throughtput =  4.202308599505091E-9
+RTRT: 86931900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 225 2018-07-18 14:29:07.660   ---Request:  228
+  Throughtput =  4.2090155862228576E-9
+RTRT: 151508700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 226 2018-07-18 14:29:08.551   ---Request:  229
+  Throughtput =  4.214087697380599E-9
+RTRT: 172100500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 227 2018-07-18 14:29:08.942   ---Request:  230
+  Throughtput =  4.225103638807133E-9
+RTRT: 94998100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 227 2018-07-18 14:29:08.942   ---Request:  231
+  Throughtput =  4.235673861826026E-9
+RTRT: 100242300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 229 2018-07-18 14:29:09.879   ---Request:  232
+  Throughtput =  4.246368058977601E-9
+RTRT: 98148100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 231 2018-07-18 14:29:10.817   ---Request:  233
+  Throughtput =  4.257545132404108E-9
+RTRT: 91447400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 231 2018-07-18 14:29:10.817   ---Request:  234
+  Throughtput =  4.268400589730981E-9
+RTRT: 95098900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 231 2018-07-18 14:29:10.817   ---Request:  235
+  Throughtput =  4.277986839758335E-9
+RTRT: 110909100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 233 2018-07-18 14:29:11.645   ---Request:  236
+  Throughtput =  4.288157084235466E-9
+RTRT: 102917000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 236 2018-07-18 14:29:12.942   ---Request:  237
+  Throughtput =  4.29816222208371E-9
+RTRT: 104548000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 236 2018-07-18 14:29:12.942   ---Request:  238
+  Throughtput =  4.3092126135013105E-9
+RTRT: 90662300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 236 2018-07-18 14:29:12.942   ---Request:  239
+  Throughtput =  4.318800565214983E-9
+RTRT: 108931300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 238 2018-07-18 14:29:13.738   ---Request:  240
+  Throughtput =  4.32948878036885E-9
+RTRT: 94357600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 239 2018-07-18 14:29:14.098   ---Request:  241
+  Throughtput =  4.335308160341915E-9
+RTRT: 156254100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 239 2018-07-18 14:29:14.098   ---Request:  242
+  Throughtput =  4.339482492397334E-9
+RTRT: 176967800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 239 2018-07-18 14:29:14.098   ---Request:  243
+  Throughtput =  4.345673637248788E-9
+RTRT: 150664400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 241 2018-07-18 14:29:16.290   ---Request:  244
+  Throughtput =  4.352586142482767E-9
+RTRT: 140943500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 242 2018-07-18 14:29:16.754   ---Request:  245
+  Throughtput =  4.3605537501735815E-9
+RTRT: 126898300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 243 2018-07-18 14:29:17.270   ---Request:  246
+  Throughtput =  4.368725326125301E-9
+RTRT: 123806300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 244 2018-07-18 14:29:17.676   ---Request:  247
+  Throughtput =  4.374807769706775E-9
+RTRT: 150292700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 244 2018-07-18 14:29:17.676   ---Request:  248
+  Throughtput =  4.384157556044016E-9
+RTRT: 107686500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 245 2018-07-18 14:29:18.160   ---Request:  249
+  Throughtput =  4.394258707933064E-9
+RTRT: 97537500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 246 2018-07-18 14:29:18.535   ---Request:  250
+  Throughtput =  4.3998428038242545E-9
+RTRT: 155364200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 250 2018-07-18 14:29:20.082   ---Request:  251
+  Throughtput =  4.4085411835651266E-9
+RTRT: 114721900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 250 2018-07-18 14:29:20.082   ---Request:  252
+  Throughtput =  4.4091900229744E-9
+RTRT: 218420700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 250 2018-07-18 14:29:20.082   ---Request:  253
+  Throughtput =  4.417862802292808E-9
+RTRT: 114155100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 251 2018-07-18 14:29:20.691   ---Request:  254
+  Throughtput =  4.424086524542481E-9
+RTRT: 145472500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 252 2018-07-18 14:29:21.113   ---Request:  255
+  Throughtput =  4.428615072883099E-9
+RTRT: 167095700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 254 2018-07-18 14:29:22.051   ---Request:  256
+  Throughtput =  4.428211114522063E-9
+RTRT: 231077500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 255 2018-07-18 14:29:22.566   ---Request:  257
+  Throughtput =  4.4327187248085854E-9
+RTRT: 166807300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 255 2018-07-18 14:29:22.566   ---Request:  258
+  Throughtput =  4.442801419180244E-9
+RTRT: 93505400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 255 2018-07-18 14:29:22.566   ---Request:  259
+  Throughtput =  4.453044486425058E-9
+RTRT: 90987200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 256 2018-07-18 14:29:23.129   ---Request:  260
+  Throughtput =  4.462207891471635E-9
+RTRT: 104664300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 258 2018-07-18 14:29:24.207   ---Request:  261
+  Throughtput =  4.472209911222161E-9
+RTRT: 93289700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 258 2018-07-18 14:29:24.207   ---Request:  262
+  Throughtput =  4.481511140925514E-9
+RTRT: 102013900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 260 2018-07-18 14:29:24.957   ---Request:  263
+  Throughtput =  4.489338757578879E-9
+RTRT: 120814800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 261 2018-07-18 14:29:25.332   ---Request:  264
+  Throughtput =  4.4980838443953114E-9
+RTRT: 108420500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 261 2018-07-18 14:29:25.332   ---Request:  265
+  Throughtput =  4.488534766267851E-9
+RTRT: 347652700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 264 2018-07-18 14:29:26.488   ---Request:  266
+  Throughtput =  4.497983304666271E-9
+RTRT: 98302900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 264 2018-07-18 14:29:26.488   ---Request:  267
+  Throughtput =  4.506161758498742E-9
+RTRT: 114586600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 265 2018-07-18 14:29:26.894   ---Request:  268
+  Throughtput =  4.5147540114292715E-9
+RTRT: 108730200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 266 2018-07-18 14:29:27.504   ---Request:  269
+  Throughtput =  4.52208675004795E-9
+RTRT: 124880800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 267 2018-07-18 14:29:27.879   ---Request:  270
+  Throughtput =  4.530832336705442E-9
+RTRT: 105888200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 267 2018-07-18 14:29:27.879   ---Request:  271
+  Throughtput =  4.538699837981647E-9
+RTRT: 117029600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 270 2018-07-18 14:29:29.082   ---Request:  272
+  Throughtput =  4.527801635066077E-9
+RTRT: 364573800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 270 2018-07-18 14:29:29.082   ---Request:  273
+  Throughtput =  4.535508912957832E-9
+RTRT: 118398700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 273 2018-07-18 14:29:30.551   ---Request:  274
+  Throughtput =  4.5446555515825385E-9
+RTRT: 98896000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 273 2018-07-18 14:29:30.551   ---Request:  275
+  Throughtput =  4.545112482542884E-9
+RTRT: 213955400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 273 2018-07-18 14:29:30.551   ---Request:  276
+  Throughtput =  4.554215469953158E-9
+RTRT: 98640000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 274 2018-07-18 14:29:30.910   ---Request:  277
+  Throughtput =  4.560047753346866E-9
+RTRT: 141784700  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 275 2018-07-18 14:29:34.300   ---Request:  278
+  Throughtput =  4.429548859514893E-9
+RTRT: 2015363800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 278 2018-07-18 14:29:36.290   ---Request:  279
+  Throughtput =  4.424456571592697E-9
+RTRT: 298249900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 278 2018-07-18 14:29:36.290   ---Request:  280
+  Throughtput =  4.421309681869841E-9
+RTRT: 271059600  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 278 2018-07-18 14:29:36.290   ---Request:  281
+  Throughtput =  4.4181034426847846E-9
+RTRT: 272300100  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 278 2018-07-18 14:29:36.290   ---Request:  282
+  Throughtput =  4.378813701201861E-9
+RTRT: 799053000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 282 2018-07-18 14:29:40.238   ---Request:  283
+  Throughtput =  4.374195023497488E-9
+RTRT: 296614000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 282 2018-07-18 14:29:40.238   ---Request:  284
+  Throughtput =  4.3816319470882516E-9
+RTRT: 118414500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 282 2018-07-18 14:29:40.238   ---Request:  285
+  Throughtput =  4.378597130848795E-9
+RTRT: 273307800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 282 2018-07-18 14:29:40.238   ---Request:  286
+  Throughtput =  4.374043450417071E-9
+RTRT: 296383900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 285 2018-07-18 14:29:42.644   ---Request:  287
+  Throughtput =  4.371251099112631E-9
+RTRT: 270535800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 285 2018-07-18 14:29:42.644   ---Request:  288
+  Throughtput =  4.359072038746483E-9
+RTRT: 412847400  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 287 2018-07-18 14:29:43.800   ---Request:  289
+  Throughtput =  4.359689295413204E-9
+RTRT: 220019900  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 288 2018-07-18 14:29:44.332   ---Request:  290
+  Throughtput =  4.354411308223582E-9
+RTRT: 310001300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 289 2018-07-18 14:29:45.191   ---Request:  291
+  Throughtput =  4.359061289003903E-9
+RTRT: 158363300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 290 2018-07-18 14:29:45.660   ---Request:  292
+  Throughtput =  4.363035749113156E-9
+RTRT: 168386200  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 290 2018-07-18 14:29:45.660   ---Request:  293
+  Throughtput =  4.351033435855017E-9
+RTRT: 414445300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 293 2018-07-18 14:29:47.128   ---Request:  294
+  Throughtput =  4.356974928891835E-9
+RTRT: 137686800  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 293 2018-07-18 14:29:47.128   ---Request:  295
+  Throughtput =  4.362173942469668E-9
+RTRT: 148820500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 293 2018-07-18 14:29:47.128   ---Request:  296
+  Throughtput =  4.369978662914823E-9
+RTRT: 108053500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 294 2018-07-18 14:29:47.816   ---Request:  297
+  Throughtput =  4.371964000371084E-9
+RTRT: 197971300  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 296 2018-07-18 14:29:48.675   ---Request:  298
+  Throughtput =  4.358055225928069E-9
+RTRT: 446268500  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 297 2018-07-18 14:29:49.097   ---Request:  299
+  Throughtput =  4.362893498575595E-9
+RTRT: 153376000  %Round trip response time 
+
+%S3 Get result | TEXT FILE PARSING: W 298 2018-07-18 14:29:49.581   ---Request:  300
+  Throughtput =  4.370529002551475E-9
+RTRT: 109076000  %Round trip response time 
+

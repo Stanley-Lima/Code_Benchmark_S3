@@ -1,0 +1,1200 @@
+%Replica: replica-sao-paulo  ---Request:  1
+  Throughtput =  4.3105735499631787E-10
+RTRT: 2319876899  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  2
+  Throughtput =  4.92149877377696E-10
+RTRT: 1743925800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  3
+  Throughtput =  6.085589064651977E-10
+RTRT: 865876200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  4
+  Throughtput =  6.880210394081767E-10
+RTRT: 884096801  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  5
+  Throughtput =  7.484615373100592E-10
+RTRT: 866594300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  6
+  Throughtput =  7.829393955343878E-10
+RTRT: 983058401  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  7
+  Throughtput =  8.148750172637093E-10
+RTRT: 926845999  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  8
+  Throughtput =  8.458002170830837E-10
+RTRT: 868224000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  9
+  Throughtput =  8.72715230314931E-10
+RTRT: 854143900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  10
+  Throughtput =  8.896046054474582E-10
+RTRT: 928306700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  11
+  Throughtput =  9.075275616120461E-10
+RTRT: 879895000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  12
+  Throughtput =  9.245436618132696E-10
+RTRT: 858532200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  13
+  Throughtput =  9.360610131382888E-10
+RTRT: 908607401  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  14
+  Throughtput =  9.494050904992324E-10
+RTRT: 858092800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  15
+  Throughtput =  9.605491697204735E-10
+RTRT: 869990400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  16
+  Throughtput =  9.693423665761215E-10
+RTRT: 889969200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  17
+  Throughtput =  9.711565143618763E-10
+RTRT: 998866400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  18
+  Throughtput =  9.754104551051997E-10
+RTRT: 948867400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  19
+  Throughtput =  9.545541970698488E-10
+RTRT: 1450809801  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  20
+  Throughtput =  9.623196475525154E-10
+RTRT: 878535500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  21
+  Throughtput =  9.707604052726138E-10
+RTRT: 849411200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  22
+  Throughtput =  9.782053708225202E-10
+RTRT: 857638500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  23
+  Throughtput =  9.816685267166836E-10
+RTRT: 939332400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  24
+  Throughtput =  9.876792282661746E-10
+RTRT: 869890001  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  25
+  Throughtput =  9.873753748936088E-10
+RTRT: 1020263900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  26
+  Throughtput =  9.92279648228131E-10
+RTRT: 882639800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  27
+  Throughtput =  9.969065839901248E-10
+RTRT: 881490500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  28
+  Throughtput =  1.0009969785834627E-9
+RTRT: 888331000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  29
+  Throughtput =  1.0060627735079481E-9
+RTRT: 853126701  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  30
+  Throughtput =  1.0093450988122533E-9
+RTRT: 897003601  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  31
+  Throughtput =  1.0122874551848854E-9
+RTRT: 901469800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  32
+  Throughtput =  1.0153935275473054E-9
+RTRT: 891162400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  33
+  Throughtput =  1.0196218310038206E-9
+RTRT: 850065700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  34
+  Throughtput =  1.0206217585090848E-9
+RTRT: 948086201  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  35
+  Throughtput =  1.024073705038115E-9
+RTRT: 864200700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  36
+  Throughtput =  1.0266968559416493E-9
+RTRT: 886676500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  37
+  Throughtput =  1.0303925532688484E-9
+RTRT: 844740600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  38
+  Throughtput =  1.0344164985649913E-9
+RTRT: 827041699  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  39
+  Throughtput =  1.0290200323196433E-9
+RTRT: 1164450500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  40
+  Throughtput =  1.032506953154916E-9
+RTRT: 840522401  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  41
+  Throughtput =  1.0353357462722615E-9
+RTRT: 860021199  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  42
+  Throughtput =  1.0383205446466432E-9
+RTRT: 849256001  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  43
+  Throughtput =  1.0410291118405375E-9
+RTRT: 855344600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  44
+  Throughtput =  1.0445690426540767E-9
+RTRT: 817353500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  45
+  Throughtput =  1.0478913448418806E-9
+RTRT: 820749101  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  46
+  Throughtput =  1.0296234413651024E-9
+RTRT: 1733143900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  47
+  Throughtput =  1.0236780700098627E-9
+RTRT: 1236344300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  48
+  Throughtput =  1.026858497885204E-9
+RTRT: 831640800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  49
+  Throughtput =  1.0299523250572666E-9
+RTRT: 830505001  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  50
+  Throughtput =  1.0320374070244197E-9
+RTRT: 872838700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  51
+  Throughtput =  1.0348342347369177E-9
+RTRT: 835399201  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  52
+  Throughtput =  1.037766344741304E-9
+RTRT: 824362900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  53
+  Throughtput =  1.039487597702731E-9
+RTRT: 879040900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  54
+  Throughtput =  1.0403867439399764E-9
+RTRT: 917116200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  55
+  Throughtput =  1.0402241474735758E-9
+RTRT: 969444300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  56
+  Throughtput =  1.0422213993007073E-9
+RTRT: 858165900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  57
+  Throughtput =  1.0444705545701392E-9
+RTRT: 841718100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  58
+  Throughtput =  1.0449722790311438E-9
+RTRT: 930760900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  59
+  Throughtput =  1.047029464906519E-9
+RTRT: 846029900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  60
+  Throughtput =  1.049192229098252E-9
+RTRT: 836956700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  61
+  Throughtput =  1.0513393729345588E-9
+RTRT: 834375300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  62
+  Throughtput =  1.052584891553439E-9
+RTRT: 881385900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  63
+  Throughtput =  1.0534147913662724E-9
+RTRT: 902889100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  64
+  Throughtput =  1.053467520863324E-9
+RTRT: 946252700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  65
+  Throughtput =  1.0550062380896583E-9
+RTRT: 859255800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  66
+  Throughtput =  1.0566352438846187E-9
+RTRT: 851415200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  67
+  Throughtput =  1.0584488736725466E-9
+RTRT: 837750700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  68
+  Throughtput =  1.0580203318472342E-9
+RTRT: 970800600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  69
+  Throughtput =  1.0586626921391206E-9
+RTRT: 905590500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  70
+  Throughtput =  1.06058569078838E-9
+RTRT: 824700500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  71
+  Throughtput =  1.0617865098861008E-9
+RTRT: 867165300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  72
+  Throughtput =  1.0599011245100605E-9
+RTRT: 1062431900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  73
+  Throughtput =  1.0618079095564085E-9
+RTRT: 819800300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  74
+  Throughtput =  1.0629941355595087E-9
+RTRT: 864018100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  75
+  Throughtput =  1.0650238132425417E-9
+RTRT: 806277400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  76
+  Throughtput =  1.0655697309148848E-9
+RTRT: 902386700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  77
+  Throughtput =  1.0673513934298618E-9
+RTRT: 817843000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  78
+  Throughtput =  1.068874281837829E-9
+RTRT: 832779900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  79
+  Throughtput =  1.0705121340262409E-9
+RTRT: 822484300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  80
+  Throughtput =  1.0720593466104015E-9
+RTRT: 826280000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  81
+  Throughtput =  1.073366747933777E-9
+RTRT: 840754700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  82
+  Throughtput =  1.074593577475892E-9
+RTRT: 844430100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  83
+  Throughtput =  1.073150711755659E-9
+RTRT: 1034432600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  84
+  Throughtput =  1.0744916812064736E-9
+RTRT: 834149100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  85
+  Throughtput =  1.0755519001650156E-9
+RTRT: 852693200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  86
+  Throughtput =  1.07672014105822E-9
+RTRT: 842999800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  87
+  Throughtput =  1.077424915988946E-9
+RTRT: 875892200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  88
+  Throughtput =  1.0789506690069725E-9
+RTRT: 812639900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  89
+  Throughtput =  1.0803073027378648E-9
+RTRT: 823239800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  90
+  Throughtput =  1.0816713109938853E-9
+RTRT: 820607500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  91
+  Throughtput =  1.0790620625864183E-9
+RTRT: 1127925300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  92
+  Throughtput =  1.080491522385127E-9
+RTRT: 813935200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  93
+  Throughtput =  1.0809221310701966E-9
+RTRT: 891216100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  94
+  Throughtput =  1.082403470530265E-9
+RTRT: 806121800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  95
+  Throughtput =  1.083299361239263E-9
+RTRT: 851285900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  96
+  Throughtput =  1.0845159983901418E-9
+RTRT: 823691800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  97
+  Throughtput =  1.0855071020424645E-9
+RTRT: 840407900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  98
+  Throughtput =  1.086665611989903E-9
+RTRT: 824979200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  99
+  Throughtput =  1.0878277010648592E-9
+RTRT: 822922600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  100
+  Throughtput =  1.0884615587258878E-9
+RTRT: 865730600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  101
+  Throughtput =  1.0897768011321906E-9
+RTRT: 806738600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  102
+  Throughtput =  1.0907602877690754E-9
+RTRT: 833227000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  103
+  Throughtput =  1.091405247676459E-9
+RTRT: 860989100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  104
+  Throughtput =  1.0921911754564626E-9
+RTRT: 847680400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  105
+  Throughtput =  1.093178615932066E-9
+RTRT: 828752500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  106
+  Throughtput =  1.0941986027770525E-9
+RTRT: 824375100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  107
+  Throughtput =  1.0941001453376364E-9
+RTRT: 922710800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  108
+  Throughtput =  1.0925041744930214E-9
+RTRT: 1058194200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  109
+  Throughtput =  1.0934816279091433E-9
+RTRT: 826144100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  110
+  Throughtput =  1.0944417755612275E-9
+RTRT: 826257700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  111
+  Throughtput =  1.0920836941752125E-9
+RTRT: 1132702300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  112
+  Throughtput =  1.0930354951962489E-9
+RTRT: 826376100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  113
+  Throughtput =  1.093983502000313E-9
+RTRT: 825296400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  114
+  Throughtput =  1.0949389796763626E-9
+RTRT: 823156900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  115
+  Throughtput =  1.0956088836238262E-9
+RTRT: 849073700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  116
+  Throughtput =  1.0965605435141938E-9
+RTRT: 820848000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  117
+  Throughtput =  1.0974036278083876E-9
+RTRT: 829971800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  118
+  Throughtput =  1.0983699318970586E-9
+RTRT: 816644000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  119
+  Throughtput =  1.0992703212664123E-9
+RTRT: 821699100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  120
+  Throughtput =  1.100106718053315E-9
+RTRT: 826698900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  121
+  Throughtput =  1.1008016897630974E-9
+RTRT: 839562900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  122
+  Throughtput =  1.101498252506758E-9
+RTRT: 838343500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  123
+  Throughtput =  1.102234928641825E-9
+RTRT: 833222600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  124
+  Throughtput =  1.0984898854914973E-9
+RTRT: 1290785500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  125
+  Throughtput =  1.09922554670967E-9
+RTRT: 834184500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  126
+  Throughtput =  1.0999383840714982E-9
+RTRT: 835445600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  127
+  Throughtput =  1.098955670042435E-9
+RTRT: 1012390000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  128
+  Throughtput =  1.0986518299205576E-9
+RTRT: 942166600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  129
+  Throughtput =  1.0969503437750324E-9
+RTRT: 1092332100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  130
+  Throughtput =  1.0975108429607159E-9
+RTRT: 851095000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  131
+  Throughtput =  1.0978500250690227E-9
+RTRT: 874276000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  132
+  Throughtput =  1.0985184098296337E-9
+RTRT: 837715200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  133
+  Throughtput =  1.098944938577724E-9
+RTRT: 863325800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  134
+  Throughtput =  1.0995387934485454E-9
+RTRT: 844107200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  135
+  Throughtput =  1.0997374462390385E-9
+RTRT: 887293900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  136
+  Throughtput =  1.0994209616574297E-9
+RTRT: 944907000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  137
+  Throughtput =  1.100140504565797E-9
+RTRT: 828068300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  138
+  Throughtput =  1.0964665980915676E-9
+RTRT: 1329278900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  139
+  Throughtput =  1.0972283464940029E-9
+RTRT: 824010100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  140
+  Throughtput =  1.0975002328140767E-9
+RTRT: 879778100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  141
+  Throughtput =  1.083962671414844E-9
+RTRT: 2515664800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  142
+  Throughtput =  1.084494102428198E-9
+RTRT: 858347100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  143
+  Throughtput =  1.085047646891006E-9
+RTRT: 854820300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  144
+  Throughtput =  1.0857792887476094E-9
+RTRT: 832191100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  145
+  Throughtput =  1.0864115893400027E-9
+RTRT: 843273400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  146
+  Throughtput =  1.087006426688121E-9
+RTRT: 846921300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  147
+  Throughtput =  1.0877301331284559E-9
+RTRT: 829981800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  148
+  Throughtput =  1.0883566218010875E-9
+RTRT: 841023900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  149
+  Throughtput =  1.0883216635197134E-9
+RTRT: 923214000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  150
+  Throughtput =  1.0887985091697607E-9
+RTRT: 858483900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  151
+  Throughtput =  1.0894251164782864E-9
+RTRT: 838675800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  152
+  Throughtput =  1.090011665980298E-9
+RTRT: 842836100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  153
+  Throughtput =  1.090473718526661E-9
+RTRT: 857946100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  154
+  Throughtput =  1.091152387676799E-9
+RTRT: 829195500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  155
+  Throughtput =  1.091806289990804E-9
+RTRT: 831385000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  156
+  Throughtput =  1.0923600627811872E-9
+RTRT: 843479000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  157
+  Throughtput =  1.092956590023692E-9
+RTRT: 837004800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  158
+  Throughtput =  1.0937451645009257E-9
+RTRT: 810722300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  159
+  Throughtput =  1.0943256716939902E-9
+RTRT: 837174200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  160
+  Throughtput =  1.095140845490182E-9
+RTRT: 804973500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  161
+  Throughtput =  1.0957216259437063E-9
+RTRT: 835201200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  162
+  Throughtput =  1.096453165618476E-9
+RTRT: 813998400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  163
+  Throughtput =  1.0972167331925443E-9
+RTRT: 808576400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  164
+  Throughtput =  1.0977680534710027E-9
+RTRT: 836330700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  165
+  Throughtput =  1.0981219149666027E-9
+RTRT: 862504600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  166
+  Throughtput =  1.098841592191616E-9
+RTRT: 811640000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  167
+  Throughtput =  1.0994716629162454E-9
+RTRT: 822955600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  168
+  Throughtput =  1.1002263116412348E-9
+RTRT: 804721300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  169
+  Throughtput =  1.1000174173119339E-9
+RTRT: 938073600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  170
+  Throughtput =  1.1005251388759002E-9
+RTRT: 837778900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  171
+  Throughtput =  1.1007800485344802E-9
+RTRT: 872675400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  172
+  Throughtput =  1.1014524213988834E-9
+RTRT: 813063400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  173
+  Throughtput =  1.101436909826783E-9
+RTRT: 910104100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  174
+  Throughtput =  1.1019573002304936E-9
+RTRT: 833302300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  175
+  Throughtput =  1.102509479093487E-9
+RTRT: 827938900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  176
+  Throughtput =  1.1032987632536173E-9
+RTRT: 792820500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  177
+  Throughtput =  1.1040728559018404E-9
+RTRT: 793892800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  178
+  Throughtput =  1.1045786796237476E-9
+RTRT: 831908700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  179
+  Throughtput =  1.1050914883854774E-9
+RTRT: 830123300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  180
+  Throughtput =  1.1057528715314643E-9
+RTRT: 807477700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  181
+  Throughtput =  1.1063223063190563E-9
+RTRT: 820108700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  182
+  Throughtput =  1.1067468851122112E-9
+RTRT: 840785500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  183
+  Throughtput =  1.107199092294922E-9
+RTRT: 836016200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  184
+  Throughtput =  1.1076810555932623E-9
+RTRT: 830871100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  185
+  Throughtput =  1.1082782659368652E-9
+RTRT: 812788400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  186
+  Throughtput =  1.1088310338519779E-9
+RTRT: 818635900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  187
+  Throughtput =  1.1093339133011078E-9
+RTRT: 825400600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  188
+  Throughtput =  1.109887454230129E-9
+RTRT: 816920500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  189
+  Throughtput =  1.1095023092225043E-9
+RTRT: 960104700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  190
+  Throughtput =  1.1098721471448303E-9
+RTRT: 844240800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  191
+  Throughtput =  1.109433909657366E-9
+RTRT: 968982700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  192
+  Throughtput =  1.1092902355258339E-9
+RTRT: 923775300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  193
+  Throughtput =  1.1079754372318402E-9
+RTRT: 1107939800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  194
+  Throughtput =  1.1074946797855592E-9
+RTRT: 978554500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  195
+  Throughtput =  1.1080733138582762E-9
+RTRT: 810993800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  196
+  Throughtput =  1.107132763154627E-9
+RTRT: 1052736600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  197
+  Throughtput =  1.0990680122517385E-9
+RTRT: 2208902500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  198
+  Throughtput =  1.0990126402728398E-9
+RTRT: 918938500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  199
+  Throughtput =  1.099352597719286E-9
+RTRT: 853914100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  200
+  Throughtput =  1.0990973432812905E-9
+RTRT: 951876600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  201
+  Throughtput =  1.0993728049711623E-9
+RTRT: 864015300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  202
+  Throughtput =  1.0988492612819945E-9
+RTRT: 997152500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  203
+  Throughtput =  1.0990542566661205E-9
+RTRT: 875585500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  204
+  Throughtput =  1.0989743075623988E-9
+RTRT: 923376400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  205
+  Throughtput =  1.0993470170989222E-9
+RTRT: 846697900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  206
+  Throughtput =  1.0939773632778314E-9
+RTRT: 1829382100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  207
+  Throughtput =  1.0880068848140512E-9
+RTRT: 1952435500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  208
+  Throughtput =  1.0813695470359745E-9
+RTRT: 2092526400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  209
+  Throughtput =  1.0779932744747392E-9
+RTRT: 1530085200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  210
+  Throughtput =  1.0783233505262172E-9
+RTRT: 868019100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  211
+  Throughtput =  1.0733889511480512E-9
+RTRT: 1826885200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  212
+  Throughtput =  1.0658361879752535E-9
+RTRT: 2331197200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  213
+  Throughtput =  1.066437633599174E-9
+RTRT: 825523700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  214
+  Throughtput =  1.0667842019111938E-9
+RTRT: 872509900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  215
+  Throughtput =  1.0673964583863623E-9
+RTRT: 821793600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  216
+  Throughtput =  1.0676109561203465E-9
+RTRT: 896201800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  217
+  Throughtput =  1.0674660675910316E-9
+RTRT: 964259200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  218
+  Throughtput =  1.0679911313467173E-9
+RTRT: 836394900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  219
+  Throughtput =  1.0684858724226308E-9
+RTRT: 841389400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  220
+  Throughtput =  1.0683599500608387E-9
+RTRT: 960172100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  221
+  Throughtput =  1.06885922984304E-9
+RTRT: 839387200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  222
+  Throughtput =  1.0695111490068403E-9
+RTRT: 808974800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  223
+  Throughtput =  1.0701287322509394E-9
+RTRT: 814675200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  224
+  Throughtput =  1.070580844776594E-9
+RTRT: 846069700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  225
+  Throughtput =  1.0709004252209178E-9
+RTRT: 871354100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  226
+  Throughtput =  1.0711782748701344E-9
+RTRT: 879053300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  227
+  Throughtput =  1.0718653772667928E-9
+RTRT: 797705900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  228
+  Throughtput =  1.0723752580121871E-9
+RTRT: 831814500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  229
+  Throughtput =  1.0729322089014885E-9
+RTRT: 821660000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  230
+  Throughtput =  1.0733748665268952E-9
+RTRT: 843621300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  231
+  Throughtput =  1.073590435945245E-9
+RTRT: 888428500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  232
+  Throughtput =  1.0742418089304317E-9
+RTRT: 800422000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  233
+  Throughtput =  1.0749255429193943E-9
+RTRT: 792926100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  234
+  Throughtput =  1.0752337255667392E-9
+RTRT: 867903000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  235
+  Throughtput =  1.0757853043673215E-9
+RTRT: 817971300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  236
+  Throughtput =  1.0763464931481836E-9
+RTRT: 815175300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  237
+  Throughtput =  1.0769038313737263E-9
+RTRT: 815112600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  238
+  Throughtput =  1.0757902954976034E-9
+RTRT: 1157346200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  239
+  Throughtput =  1.0763339863671385E-9
+RTRT: 817327900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  240
+  Throughtput =  1.0769319416862839E-9
+RTRT: 805272800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  241
+  Throughtput =  1.0772269372583062E-9
+RTRT: 867281200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  242
+  Throughtput =  1.077282891009189E-9
+RTRT: 916641200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  243
+  Throughtput =  1.0778173269380328E-9
+RTRT: 816413600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  244
+  Throughtput =  1.0783108283777844E-9
+RTRT: 824194000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  245
+  Throughtput =  1.078727614634936E-9
+RTRT: 839590700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  246
+  Throughtput =  1.0793311477641868E-9
+RTRT: 799500600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  247
+  Throughtput =  1.0797292486772628E-9
+RTRT: 842123400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  248
+  Throughtput =  1.0801429999152075E-9
+RTRT: 838175900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  249
+  Throughtput =  1.080019501935048E-9
+RTRT: 952163400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  250
+  Throughtput =  1.080471318627267E-9
+RTRT: 829113200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  251
+  Throughtput =  1.0809347196614456E-9
+RTRT: 825931500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  252
+  Throughtput =  1.0812980754361231E-9
+RTRT: 846784500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  253
+  Throughtput =  1.081757183786186E-9
+RTRT: 825511800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  254
+  Throughtput =  1.0822209934631756E-9
+RTRT: 823791800  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  255
+  Throughtput =  1.0826644746783684E-9
+RTRT: 827508300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  256
+  Throughtput =  1.0828013579195896E-9
+RTRT: 893755700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  257
+  Throughtput =  1.0832503116044368E-9
+RTRT: 825161700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  258
+  Throughtput =  1.0836067793281332E-9
+RTRT: 844797600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  259
+  Throughtput =  1.0782088020995806E-9
+RTRT: 2119463900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  260
+  Throughtput =  1.0787699659810227E-9
+RTRT: 802025500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  261
+  Throughtput =  1.0790727975050435E-9
+RTRT: 859082900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  262
+  Throughtput =  1.0794300505768645E-9
+RTRT: 846363000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  263
+  Throughtput =  1.0799322320198144E-9
+RTRT: 813116000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  264
+  Throughtput =  1.0803635090844057E-9
+RTRT: 828396600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  265
+  Throughtput =  1.0807391472997546E-9
+RTRT: 840358400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  266
+  Throughtput =  1.0812265454510672E-9
+RTRT: 814342500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  267
+  Throughtput =  1.0817428523150834E-9
+RTRT: 807012300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  268
+  Throughtput =  1.0822148637275348E-9
+RTRT: 816377900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  269
+  Throughtput =  1.0825762174515584E-9
+RTRT: 841062500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  270
+  Throughtput =  1.0830426332193507E-9
+RTRT: 816315400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  271
+  Throughtput =  1.0813161374083293E-9
+RTRT: 1322842900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  272
+  Throughtput =  1.0818062123927794E-9
+RTRT: 810845000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  273
+  Throughtput =  1.0821798129247744E-9
+RTRT: 837259300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  274
+  Throughtput =  1.082593504533469E-9
+RTRT: 827308300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  275
+  Throughtput =  1.0828885754356056E-9
+RTRT: 854491200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  276
+  Throughtput =  1.0832807392301895E-9
+RTRT: 831187900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  277
+  Throughtput =  1.0836893513938986E-9
+RTRT: 826706600  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  278
+  Throughtput =  1.0839106860551817E-9
+RTRT: 870390000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  279
+  Throughtput =  1.0841509916835697E-9
+RTRT: 865531400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  280
+  Throughtput =  1.0845242424265132E-9
+RTRT: 833495500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  281
+  Throughtput =  1.0848845081148313E-9
+RTRT: 836022100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  282
+  Throughtput =  1.085312543438652E-9
+RTRT: 819241400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  283
+  Throughtput =  1.0854150509820245E-9
+RTRT: 896767700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  284
+  Throughtput =  1.0858543724486566E-9
+RTRT: 815446200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  285
+  Throughtput =  1.0862300376301563E-9
+RTRT: 830161700  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  286
+  Throughtput =  1.086664992182608E-9
+RTRT: 815227000  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  287
+  Throughtput =  1.0870183118014645E-9
+RTRT: 834401400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  288
+  Throughtput =  1.0870526382269167E-9
+RTRT: 911581400  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  289
+  Throughtput =  1.0874640432326848E-9
+RTRT: 819340900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  290
+  Throughtput =  1.0879018937687814E-9
+RTRT: 812241100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  291
+  Throughtput =  1.0882337496888083E-9
+RTRT: 837630500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  292
+  Throughtput =  1.0869613641511985E-9
+RTRT: 1233018300  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  293
+  Throughtput =  1.0873293636178269E-9
+RTRT: 828765500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  294
+  Throughtput =  1.0877113369906224E-9
+RTRT: 824732200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  295
+  Throughtput =  1.0881307081544094E-9
+RTRT: 814835200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  296
+  Throughtput =  1.0885599402751694E-9
+RTRT: 811744100  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  297
+  Throughtput =  1.0889438054908581E-9
+RTRT: 822466500  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  298
+  Throughtput =  1.0892976379140953E-9
+RTRT: 829429200  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  299
+  Throughtput =  1.089675732466736E-9
+RTRT: 822780900  %Round trip response time 
+
+%Replica: replica-ireland  ---Request:  300
+  Throughtput =  1.0898679871468614E-9
+RTRT: 869138800  %Round trip response time 
+

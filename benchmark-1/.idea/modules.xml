@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazon/amazon.iml" filepath="$PROJECT_DIR$/amazon/amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/benchmark.iml" filepath="$PROJECT_DIR$/benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reader/reader.iml" filepath="$PROJECT_DIR$/reader/reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-utils/socket-utils.iml" filepath="$PROJECT_DIR$/socket-utils/socket-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writer/writer.iml" filepath="$PROJECT_DIR$/writer/writer.iml" />
+    </modules>
+  </component>
+</project>

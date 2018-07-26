@@ -1,0 +1,1200 @@
+%Replica: replica-sao-paulo  ---Request:  1
+  Throughtput =  1.9389128821817843E-10
+RTRT: 5157529300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  2
+  Throughtput =  3.046044202152612E-10
+RTRT: 1408363600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  3
+  Throughtput =  3.3683774079154666E-10
+RTRT: 2340472500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  4
+  Throughtput =  3.5830723087550605E-10
+RTRT: 2257238500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  5
+  Throughtput =  3.431902421295015E-10
+RTRT: 3405574900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  6
+  Throughtput =  3.777345074505393E-10
+RTRT: 1314993500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  7
+  Throughtput =  3.86134452402461E-10
+RTRT: 2244228200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  8
+  Throughtput =  3.916848172594975E-10
+RTRT: 2296184900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  9
+  Throughtput =  4.168244269933128E-10
+RTRT: 1167239400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  10
+  Throughtput =  4.371051249671095E-10
+RTRT: 1285966900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  11
+  Throughtput =  4.3717085232653565E-10
+RTRT: 2283995600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  12
+  Throughtput =  4.5568167609198645E-10
+RTRT: 1172385500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  13
+  Throughtput =  4.5368841333781254E-10
+RTRT: 2319854100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  14
+  Throughtput =  4.4946819180384734E-10
+RTRT: 2493894700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  15
+  Throughtput =  4.4694483527949403E-10
+RTRT: 2413267200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  16
+  Throughtput =  4.4547994773361966E-10
+RTRT: 2355130400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  17
+  Throughtput =  4.434730575808992E-10
+RTRT: 2417463900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  18
+  Throughtput =  4.4283652034699363E-10
+RTRT: 2313271000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  19
+  Throughtput =  4.4255325547869693E-10
+RTRT: 2285632000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  20
+  Throughtput =  4.396731785276168E-10
+RTRT: 2555647000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  21
+  Throughtput =  4.398525329452689E-10
+RTRT: 2254940900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  22
+  Throughtput =  4.4026798319654804E-10
+RTRT: 2226291900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  23
+  Throughtput =  4.4961766185440686E-10
+RTRT: 1185008200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  24
+  Throughtput =  4.4856328627735624E-10
+RTRT: 2349581800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  25
+  Throughtput =  4.5718379656722593E-10
+RTRT: 1178447000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  26
+  Throughtput =  4.644166756416678E-10
+RTRT: 1301605600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  27
+  Throughtput =  4.6159885444978097E-10
+RTRT: 2508137700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  28
+  Throughtput =  4.606908839688967E-10
+RTRT: 2285934800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  29
+  Throughtput =  4.674590292793511E-10
+RTRT: 1259241400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  30
+  Throughtput =  4.5863951897410265E-10
+RTRT: 3373325900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  31
+  Throughtput =  4.577141431158701E-10
+RTRT: 2317013000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  32
+  Throughtput =  4.6425562000324667E-10
+RTRT: 1199683400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  33
+  Throughtput =  4.6389020320541664E-10
+RTRT: 2209978300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  34
+  Throughtput =  4.5696703158933793E-10
+RTRT: 3266094000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  35
+  Throughtput =  4.5659591353362824E-10
+RTRT: 2250595100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  36
+  Throughtput =  4.629089795369311E-10
+RTRT: 1114856100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  37
+  Throughtput =  4.6230873478601616E-10
+RTRT: 2264029200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  38
+  Throughtput =  4.620675854194797E-10
+RTRT: 2205954200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  39
+  Throughtput =  4.676084211543014E-10
+RTRT: 1164065700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  40
+  Throughtput =  4.724978274815673E-10
+RTRT: 1253356600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  41
+  Throughtput =  4.71729080604394E-10
+RTRT: 2257820100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  42
+  Throughtput =  4.70913188610147E-10
+RTRT: 2274119100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  43
+  Throughtput =  4.730663366731926E-10
+RTRT: 1707929900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  44
+  Throughtput =  4.715537024138079E-10
+RTRT: 2412223500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  45
+  Throughtput =  4.747552804276261E-10
+RTRT: 1477109100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  46
+  Throughtput =  4.739604681463745E-10
+RTRT: 2268832300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  47
+  Throughtput =  4.727486000716993E-10
+RTRT: 2364083700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  48
+  Throughtput =  4.697196242388619E-10
+RTRT: 2770028000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  49
+  Throughtput =  4.691083488160629E-10
+RTRT: 2264861400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  50
+  Throughtput =  4.687190279254829E-10
+RTRT: 2220234000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  51
+  Throughtput =  4.676685791676716E-10
+RTRT: 2377870400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  52
+  Throughtput =  4.67173873268076E-10
+RTRT: 2256009000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  53
+  Throughtput =  4.66540148959333E-10
+RTRT: 2294632800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  54
+  Throughtput =  4.655922635451278E-10
+RTRT: 2379081400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  55
+  Throughtput =  4.6542570628073787E-10
+RTRT: 2190075700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  56
+  Throughtput =  4.649360858299047E-10
+RTRT: 2275278600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  57
+  Throughtput =  4.6438788203481173E-10
+RTRT: 2295558000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  58
+  Throughtput =  4.6421011189495014E-10
+RTRT: 2201201300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  59
+  Throughtput =  4.6385978147139574E-10
+RTRT: 2250187500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  60
+  Throughtput =  4.6277138453668193E-10
+RTRT: 2460042200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  61
+  Throughtput =  4.659952085685122E-10
+RTRT: 1248981600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  62
+  Throughtput =  4.656733123856453E-10
+RTRT: 2237914500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  63
+  Throughtput =  4.689254939705069E-10
+RTRT: 1209153200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  64
+  Throughtput =  4.543309209688928E-10
+RTRT: 6516784100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  65
+  Throughtput =  4.541162051720629E-10
+RTRT: 2268684200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  66
+  Throughtput =  4.5718264050332425E-10
+RTRT: 1227267200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  67
+  Throughtput =  4.5698499016771217E-10
+RTRT: 2250693800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  68
+  Throughtput =  4.599989322207139E-10
+RTRT: 1213299600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  69
+  Throughtput =  4.592903003412033E-10
+RTRT: 2405351300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  70
+  Throughtput =  4.5299927858441173E-10
+RTRT: 4293851000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  71
+  Throughtput =  4.5607463366665814E-10
+RTRT: 1150642400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  72
+  Throughtput =  4.560351073306969E-10
+RTRT: 2206306700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  73
+  Throughtput =  4.5894852640609103E-10
+RTRT: 1176650200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  74
+  Throughtput =  4.5890197220340957E-10
+RTRT: 2195250700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  75
+  Throughtput =  4.6102596521594747E-10
+RTRT: 1426159600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  76
+  Throughtput =  4.6089558375922123E-10
+RTRT: 2215709100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  77
+  Throughtput =  4.6053591570470695E-10
+RTRT: 2300163600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  78
+  Throughtput =  4.6042101999537124E-10
+RTRT: 2213648200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  79
+  Throughtput =  4.6311212881766587E-10
+RTRT: 1174874900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  80
+  Throughtput =  4.6579319140031E-10
+RTRT: 1165003800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  81
+  Throughtput =  4.684176070167958E-10
+RTRT: 1172578700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  82
+  Throughtput =  4.673389199107609E-10
+RTRT: 2538905600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  83
+  Throughtput =  4.668726295709415E-10
+RTRT: 2317154500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  84
+  Throughtput =  4.666943652365181E-10
+RTRT: 2210636500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  85
+  Throughtput =  4.664458298823362E-10
+RTRT: 2239775000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  86
+  Throughtput =  4.662717741612705E-10
+RTRT: 2212696700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  87
+  Throughtput =  4.66187310332865E-10
+RTRT: 2178477700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  88
+  Throughtput =  4.677118506820222E-10
+RTRT: 1529766400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  89
+  Throughtput =  4.650921445913263E-10
+RTRT: 3209896800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  90
+  Throughtput =  4.6490714005222527E-10
+RTRT: 2227116700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  91
+  Throughtput =  4.6436090663627785E-10
+RTRT: 2381216200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  92
+  Throughtput =  4.6191645998214664E-10
+RTRT: 3201951200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  93
+  Throughtput =  4.619963101994046E-10
+RTRT: 2130095400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  94
+  Throughtput =  4.620000476007496E-10
+RTRT: 2162873500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  95
+  Throughtput =  4.6201018763199564E-10
+RTRT: 2159988900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  96
+  Throughtput =  4.620180542708439E-10
+RTRT: 2160916500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  97
+  Throughtput =  4.643212270981058E-10
+RTRT: 1123009900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  98
+  Throughtput =  4.643429945985097E-10
+RTRT: 2143787300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  99
+  Throughtput =  4.6424772250970124E-10
+RTRT: 2197333900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  100
+  Throughtput =  4.6427649509760723E-10
+RTRT: 2140673300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  101
+  Throughtput =  4.6406853456013143E-10
+RTRT: 2251375200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  102
+  Throughtput =  4.662179035043931E-10
+RTRT: 1141549400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  103
+  Throughtput =  4.682529758196041E-10
+RTRT: 1184751000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  104
+  Throughtput =  4.697057230641207E-10
+RTRT: 1448660600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  105
+  Throughtput =  4.608070198214397E-10
+RTRT: 6445883600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  106
+  Throughtput =  4.5950950060645325E-10
+RTRT: 2819646100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  107
+  Throughtput =  4.598362965937787E-10
+RTRT: 2010747000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  108
+  Throughtput =  4.596036626964889E-10
+RTRT: 2293567300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  109
+  Throughtput =  4.575937162310662E-10
+RTRT: 3217499200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  110
+  Throughtput =  4.575215962296946E-10
+RTRT: 2223237500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  111
+  Throughtput =  4.5749768825181645E-10
+RTRT: 2198367600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  112
+  Throughtput =  4.516258235486109E-10
+RTRT: 5368728300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  113
+  Throughtput =  4.512578451026617E-10
+RTRT: 2418253900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  114
+  Throughtput =  4.5305852207600673E-10
+RTRT: 1211963500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  115
+  Throughtput =  4.5299012851632467E-10
+RTRT: 2245544300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  116
+  Throughtput =  4.530250603711642E-10
+RTRT: 2187808100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  117
+  Throughtput =  4.5245094679102035E-10
+RTRT: 2535093600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  118
+  Throughtput =  4.525350197820411E-10
+RTRT: 2161732000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  119
+  Throughtput =  4.5428331780105585E-10
+RTRT: 1197766900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  120
+  Throughtput =  4.5406274388230255E-10
+RTRT: 2329589000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  121
+  Throughtput =  4.5403258517042197E-10
+RTRT: 2220039700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  122
+  Throughtput =  4.539420747059296E-10
+RTRT: 2256061200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  123
+  Throughtput =  4.539214774086268E-10
+RTRT: 2215219400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  124
+  Throughtput =  4.538890057577837E-10
+RTRT: 2222567400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  125
+  Throughtput =  4.538495712887389E-10
+RTRT: 2227110800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  126
+  Throughtput =  4.5379474396321956E-10
+RTRT: 2236915800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  127
+  Throughtput =  4.5538758174236227E-10
+RTRT: 1224747800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  128
+  Throughtput =  4.552432911018477E-10
+RTRT: 2285020500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  129
+  Throughtput =  4.569220091167764E-10
+RTRT: 1155553100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  130
+  Throughtput =  4.513531796432658E-10
+RTRT: 5698893300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  131
+  Throughtput =  4.5132671270074186E-10
+RTRT: 2232580200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  132
+  Throughtput =  4.5120996119659623E-10
+RTRT: 2291367300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  133
+  Throughtput =  4.5095321150550905E-10
+RTRT: 2384086100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  134
+  Throughtput =  4.508472373940028E-10
+RTRT: 2287371300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  135
+  Throughtput =  4.5081090347587197E-10
+RTRT: 2242179800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  136
+  Throughtput =  4.5059986373575183E-10
+RTRT: 2359517000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  137
+  Throughtput =  4.506379353304472E-10
+RTRT: 2193577500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  138
+  Throughtput =  4.521676398628184E-10
+RTRT: 1183077200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  139
+  Throughtput =  4.53766339817401E-10
+RTRT: 1128515400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  140
+  Throughtput =  4.5373264642696135E-10
+RTRT: 2226688200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  141
+  Throughtput =  4.537749280411926E-10
+RTRT: 2174985600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  142
+  Throughtput =  4.5330117358575704E-10
+RTRT: 2530785800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  143
+  Throughtput =  4.547327781431946E-10
+RTRT: 1212886200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  144
+  Throughtput =  4.547341775544497E-10
+RTRT: 2198119200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  145
+  Throughtput =  4.5475502676013793E-10
+RTRT: 2184467800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  146
+  Throughtput =  4.547263902044311E-10
+RTRT: 2219204500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  147
+  Throughtput =  4.56237132173089E-10
+RTRT: 1128673500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  148
+  Throughtput =  4.562755567261312E-10
+RTRT: 2164524400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  149
+  Throughtput =  4.56242992894189E-10
+RTRT: 2214965700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  150
+  Throughtput =  4.575913481234337E-10
+RTRT: 1223042500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  151
+  Throughtput =  4.575738346563821E-10
+RTRT: 2197986200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  152
+  Throughtput =  4.527733519099885E-10
+RTRT: 5707416200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  153
+  Throughtput =  4.5424439577268193E-10
+RTRT: 1114284800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  154
+  Throughtput =  4.5388206036526364E-10
+RTRT: 2472102400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  155
+  Throughtput =  4.5516020299212416E-10
+RTRT: 1244248400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  156
+  Throughtput =  4.5236032509533585E-10
+RTRT: 4318391200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  157
+  Throughtput =  4.5377580086396855E-10
+RTRT: 1128006600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  158
+  Throughtput =  4.5383492322593234E-10
+RTRT: 2158371800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  159
+  Throughtput =  4.538153457011249E-10
+RTRT: 2218558300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  160
+  Throughtput =  4.55114989580825E-10
+RTRT: 1196737500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  161
+  Throughtput =  4.551451815668763E-10
+RTRT: 2173780500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  162
+  Throughtput =  4.5515985828688843E-10
+RTRT: 2185624100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  163
+  Throughtput =  4.5592291642444014E-10
+RTRT: 1597667400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  164
+  Throughtput =  4.559535725007901E-10
+RTRT: 2169168100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  165
+  Throughtput =  4.55982035369001E-10
+RTRT: 2170616900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  166
+  Throughtput =  4.5593359456174977E-10
+RTRT: 2231747400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  167
+  Throughtput =  4.569204295597825E-10
+RTRT: 1402224700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  168
+  Throughtput =  4.5683714942964337E-10
+RTRT: 2255591700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  169
+  Throughtput =  4.568893569146911E-10
+RTRT: 2146692400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  170
+  Throughtput =  4.581491078153173E-10
+RTRT: 1165619300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  171
+  Throughtput =  4.5815187877639087E-10
+RTRT: 2180438100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  172
+  Throughtput =  4.5815934901866316E-10
+RTRT: 2176561100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  173
+  Throughtput =  4.5941022351626653E-10
+RTRT: 1154529500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  174
+  Throughtput =  4.6066234761457326E-10
+RTRT: 1147234900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  175
+  Throughtput =  4.6189409993601133E-10
+RTRT: 1157724700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  176
+  Throughtput =  4.6178463400222176E-10
+RTRT: 2255323800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  177
+  Throughtput =  4.6176803490531184E-10
+RTRT: 2179289900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  178
+  Throughtput =  4.604307454716195E-10
+RTRT: 3285174900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  179
+  Throughtput =  4.603875634586708E-10
+RTRT: 2208343600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  180
+  Throughtput =  4.604211471516786E-10
+RTRT: 2143564800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  181
+  Throughtput =  4.6042175438057765E-10
+RTRT: 2171406100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  182
+  Throughtput =  4.616015838577025E-10
+RTRT: 1161581800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  183
+  Throughtput =  4.6272418613857664E-10
+RTRT: 1204564300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  184
+  Throughtput =  4.626319969356423E-10
+RTRT: 2240353800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  185
+  Throughtput =  4.638568752912441E-10
+RTRT: 1105591200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  186
+  Throughtput =  4.6380503230734196E-10
+RTRT: 2200658600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  187
+  Throughtput =  4.6377569634374475E-10
+RTRT: 2181581800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  188
+  Throughtput =  4.637328848263449E-10
+RTRT: 2193638100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  189
+  Throughtput =  4.624281267291631E-10
+RTRT: 3306365700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  190
+  Throughtput =  4.6322722574271147E-10
+RTRT: 1453711000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  191
+  Throughtput =  4.6317031363350323E-10
+RTRT: 2209432200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  192
+  Throughtput =  4.6310421086394364E-10
+RTRT: 2218203000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  193
+  Throughtput =  4.6293841483397945E-10
+RTRT: 2308596400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  194
+  Throughtput =  4.6290015893087595E-10
+RTRT: 2194747500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  195
+  Throughtput =  4.639524966433376E-10
+RTRT: 1204797000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  196
+  Throughtput =  4.6384978258869627E-10
+RTRT: 2248941200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  197
+  Throughtput =  4.637859580775105E-10
+RTRT: 2214316900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  198
+  Throughtput =  4.6488806074846313E-10
+RTRT: 1144072100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  199
+  Throughtput =  4.6475701771296825E-10
+RTRT: 2271751400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  200
+  Throughtput =  4.6468983882418353E-10
+RTRT: 2213873900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  201
+  Throughtput =  4.6462068238505833E-10
+RTRT: 2216355400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  202
+  Throughtput =  4.6558838236615264E-10
+RTRT: 1248661700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  203
+  Throughtput =  4.630398928678058E-10
+RTRT: 4547527600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  204
+  Throughtput =  4.6303164388850737E-10
+RTRT: 2167489900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  205
+  Throughtput =  4.619311081803898E-10
+RTRT: 3214479600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  206
+  Throughtput =  4.619084798633477E-10
+RTRT: 2186671700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  207
+  Throughtput =  4.618316670854327E-10
+RTRT: 2239466700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  208
+  Throughtput =  4.6180664867912155E-10
+RTRT: 2189690500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  209
+  Throughtput =  4.628357282483894E-10
+RTRT: 1159153100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  210
+  Throughtput =  4.628386875101905E-10
+RTRT: 2157692800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  211
+  Throughtput =  4.6279299711699767E-10
+RTRT: 2205588100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  212
+  Throughtput =  4.627498062060564E-10
+RTRT: 2203549100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  213
+  Throughtput =  4.627225505980233E-10
+RTRT: 2188107400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  214
+  Throughtput =  4.6262458066513617E-10
+RTRT: 2259061600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  215
+  Throughtput =  4.6363918800671137E-10
+RTRT: 1144564300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  216
+  Throughtput =  4.646175256622924E-10
+RTRT: 1175854600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  217
+  Throughtput =  4.6459049467287905E-10
+RTRT: 2179482100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  218
+  Throughtput =  4.645877069204491E-10
+RTRT: 2155248800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  219
+  Throughtput =  4.6455121262958047E-10
+RTRT: 2189477300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  220
+  Throughtput =  4.645041993330063E-10
+RTRT: 2200546600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  221
+  Throughtput =  4.644574925232726E-10
+RTRT: 2200678100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  222
+  Throughtput =  4.6546816959274136E-10
+RTRT: 1115211900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  223
+  Throughtput =  4.66394368219655E-10
+RTRT: 1196969000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  224
+  Throughtput =  4.663464859939116E-10
+RTRT: 2193421100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  225
+  Throughtput =  4.67251353680594E-10
+RTRT: 1209981100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  226
+  Throughtput =  4.6521146196678453E-10
+RTRT: 4261048300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  227
+  Throughtput =  4.661818509042368E-10
+RTRT: 1133859000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  228
+  Throughtput =  4.671347044709151E-10
+RTRT: 1147469400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  229
+  Throughtput =  4.68005726941528E-10
+RTRT: 1228339000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  230
+  Throughtput =  4.678973439314149E-10
+RTRT: 2250564000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  231
+  Throughtput =  4.678167802336218E-10
+RTRT: 2222241700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  232
+  Throughtput =  4.677408976837542E-10
+RTRT: 2218043200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  233
+  Throughtput =  4.677111339990205E-10
+RTRT: 2169635800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  234
+  Throughtput =  4.669288110503227E-10
+RTRT: 2976321800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  235
+  Throughtput =  4.666672304536362E-10
+RTRT: 2423762100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  236
+  Throughtput =  4.664645711020682E-10
+RTRT: 2362566000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  237
+  Throughtput =  4.673676227077756E-10
+RTRT: 1162074600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  238
+  Throughtput =  4.673181306820649E-10
+RTRT: 2193574600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  239
+  Throughtput =  4.663457282259388E-10
+RTRT: 3206277700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  240
+  Throughtput =  4.663382399815942E-10
+RTRT: 2152595700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  241
+  Throughtput =  4.663247518117602E-10
+RTRT: 2159314200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  242
+  Throughtput =  4.66267284820147E-10
+RTRT: 2208388600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  243
+  Throughtput =  4.662738783830066E-10
+RTRT: 2137322900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  244
+  Throughtput =  4.662671256153094E-10
+RTRT: 2152241000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  245
+  Throughtput =  4.662453442833266E-10
+RTRT: 2169240500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  246
+  Throughtput =  4.671286001891747E-10
+RTRT: 1147160800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  247
+  Throughtput =  4.670692408184022E-10
+RTRT: 2207938000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  248
+  Throughtput =  4.670075909707447E-10
+RTRT: 2211103800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  249
+  Throughtput =  4.666199404951972E-10
+RTRT: 2584240500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  250
+  Throughtput =  4.665943180074907E-10
+RTRT: 2172492800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  251
+  Throughtput =  4.664041312869386E-10
+RTRT: 2362546700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  252
+  Throughtput =  4.672586777003736E-10
+RTRT: 1155928000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  253
+  Throughtput =  4.671890951786755E-10
+RTRT: 2220785900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  254
+  Throughtput =  4.679826792358525E-10
+RTRT: 1218517700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  255
+  Throughtput =  4.677940371735621E-10
+RTRT: 2356563700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  256
+  Throughtput =  4.685285236157062E-10
+RTRT: 1279800100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  257
+  Throughtput =  4.693765984679418E-10
+RTRT: 1143259200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  258
+  Throughtput =  4.693191114129577E-10
+RTRT: 2197814100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  259
+  Throughtput =  4.692448097629671E-10
+RTRT: 2218130100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  260
+  Throughtput =  4.700642377999613E-10
+RTRT: 1165194200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  261
+  Throughtput =  4.673998577574369E-10
+RTRT: 5292494000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  262
+  Throughtput =  4.673324595250893E-10
+RTRT: 2220337400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  263
+  Throughtput =  4.67295542014708E-10
+RTRT: 2184264400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  264
+  Throughtput =  4.672691802442871E-10
+RTRT: 2171846100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  265
+  Throughtput =  4.679091888174594E-10
+RTRT: 1364377700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  266
+  Throughtput =  4.682969475979792E-10
+RTRT: 1666449300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  267
+  Throughtput =  4.691050904818367E-10
+RTRT: 1153179100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  268
+  Throughtput =  4.699014722708686E-10
+RTRT: 1163487100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  269
+  Throughtput =  4.665391610745772E-10
+RTRT: 6253783200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  270
+  Throughtput =  4.639866035725654E-10
+RTRT: 5327242600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  271
+  Throughtput =  4.595606483802065E-10
+RTRT: 7780305900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  272
+  Throughtput =  4.595295664389393E-10
+RTRT: 2216024600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  273
+  Throughtput =  4.595016363645196E-10
+RTRT: 2212249100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  274
+  Throughtput =  4.594910225087582E-10
+RTRT: 2190044800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  275
+  Throughtput =  4.594761510697415E-10
+RTRT: 2195691800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  276
+  Throughtput =  4.5945838570719173E-10
+RTRT: 2199617500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  277
+  Throughtput =  4.601885839626114E-10
+RTRT: 1219857700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  278
+  Throughtput =  4.601554219927077E-10
+RTRT: 2216557800  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  279
+  Throughtput =  4.6011765149308493E-10
+RTRT: 2222950600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  280
+  Throughtput =  4.609042369475971E-10
+RTRT: 1134814500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  281
+  Throughtput =  4.6164335942072453E-10
+RTRT: 1193523100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  282
+  Throughtput =  4.6241349105278466E-10
+RTRT: 1148808900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  283
+  Throughtput =  4.6240063710036885E-10
+RTRT: 2179579400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  284
+  Throughtput =  4.6297755659758965E-10
+RTRT: 1397285400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  285
+  Throughtput =  4.6375287347341736E-10
+RTRT: 1130784600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  286
+  Throughtput =  4.636402666709541E-10
+RTRT: 2306104000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  287
+  Throughtput =  4.644008576760217E-10
+RTRT: 1143029100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  288
+  Throughtput =  4.6438582566521777E-10
+RTRT: 2173386300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  289
+  Throughtput =  4.643804594687861E-10
+RTRT: 2160573200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  290
+  Throughtput =  4.635939801641951E-10
+RTRT: 3212839900  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  291
+  Throughtput =  4.6359410219814476E-10
+RTRT: 2156894700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  292
+  Throughtput =  4.6431924180931917E-10
+RTRT: 1173388300  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  293
+  Throughtput =  4.649545500230737E-10
+RTRT: 1291457100  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  294
+  Throughtput =  4.633356847976557E-10
+RTRT: 4360033000  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  295
+  Throughtput =  4.6330966648612823E-10
+RTRT: 2194017200  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  296
+  Throughtput =  4.6329365214020357E-10
+RTRT: 2180467400  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  297
+  Throughtput =  4.6400669014532185E-10
+RTRT: 1173339600  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  298
+  Throughtput =  4.6444706680921356E-10
+RTRT: 1546193500  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  299
+  Throughtput =  4.6516685718277977E-10
+RTRT: 1156930700  %Round trip response time 
+
+%Replica: replica-sao-paulo  ---Request:  300
+  Throughtput =  4.6475860603456626E-10
+RTRT: 2716282600  %Round trip response time 
+
