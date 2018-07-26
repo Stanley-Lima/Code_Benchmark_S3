@@ -4,7 +4,7 @@
 
 This experiment was developed under the PDCTI | DOCTORAL PLAN IN INFORMATION SCIENCES AND TECHNOLOGIES.
 The different lemmas, experimental results and analysis of the  different strategies for implementing Causal order and different benchmarks for performance comparison of these strategies, were submitted to Journal of parallel and distributed computing.
-See full article: `https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/editorial-board` Modify to the direct link to the article when it is online.
+See full article: `https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/editorial-board` modify for direct link when paper is online.
 
 
 
@@ -12,11 +12,11 @@ See full article: `https://www.journals.elsevier.com/journal-of-parallel-and-dis
 - create a aws account (it's possible to have a free account)
 - create a  bucket a configure a Cross-Region Replication (CRR)
 - configure source and destination buckets, (this must have versioning enabled). For more information about versioning, see 
-`curl -H "Using S3 versioning" http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html#_push_notifications_and_spring_cloud_bus`
+`"Using S3 versioning" https://docs.aws.amazon.com/AmazonS3/latest/dev/crr.html`
 - create a credentials(access_key_id and secret_access_key)
 - install  Apache Maven
 - install java 8 Release (JDK™)
-```yml
+```pom
 Maven Dependency:
  <dependency>
                 <groupId>junit</groupId>
@@ -60,7 +60,7 @@ Maven Dependency:
 
 ## Feedback welcome
 
-PiggyMetrics is open source, and would greatly appreciate your help. Feel free to contact me with any questions.
+This code is Open-source, and would greatly appreciate your help. Feel free to contact me with any questions.
 
 Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
 Copyright (C) 2017, 2018 Stanley Lima <stanleylima@dei.uc.pt>
