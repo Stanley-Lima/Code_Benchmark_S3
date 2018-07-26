@@ -2,11 +2,10 @@
 
 **Data getting final causality consistent guarantee on eventually consistent data store**
 
-This is a 
+This experiment was developed under the PDCTI | DOCTORAL PLAN IN INFORMATION SCIENCES AND TECHNOLOGIES.
+The different lemmas, experimental results and analysis of the  different strategies for implementing Causal order and different benchmarks for performance comparison of these strategies, were submitted to Journal of parallel and distributed computing.
+See full article: `https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/editorial-board` Modify to the direct link to the article when it is online.
 
-
-#### Notification service
-Stores users contact information and notification settings (like remind and backup frequency). Scheduled worker collects required information from other services and sends e-mail messages to subscribed customers.
 
 
 #### Geral Instructions:
@@ -44,15 +43,18 @@ Maven Dependency:
 ```
 
 #### Instructions to run:
-- run on terminal ```mvn compile and package``` ServerFrame
-- run on terminal ```ServerFrame.java``` Class 
-- run on terminal ```ClientWriter.java``` Class 
-- run on terminal ```ClientReader.java``` Class 
+- run on terminal ```mvn compile and package```
+
+- ```start /b java -jar reader/target/reader-1.0-SNAPSHOT.jar```
+- ```start /b java -jar server/target/server-1.0-SNAPSHOT.jar```
+- ```start /b java -jar writer/target/writer-1.0-SNAPSHOT.jar```
+- ```//java -jar reader/target/reader-1.0-SNAPSHOT.jar```
+- ```//Server class S3ServerReaderSocketInputHandlerFactory, (ServerFrame, ClientWrite, ClientReader) or runClientWriterServer.bat```
 
 ##### Notes
 - choose different ports for communication between the microservice. (e.g. `9999` to `Writer C1` and `2222` to `Reader C2`).
 - disable the firewall if the microservice is in different region or different machines
-- There are significant [security notes](https://github.com/sqshq/PiggyMetrics#security) below
+
 
 
 
@@ -60,10 +62,8 @@ Maven Dependency:
 
 PiggyMetrics is open source, and would greatly appreciate your help. Feel free to contact me with any questions.
 
-`
 Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
-Copyright (C) 2017, 2018 Stanley Lima <stanleylima@dei.uc.pt>`
-========================================================================
+Copyright (C) 2017, 2018 Stanley Lima <stanleylima@dei.uc.pt>
 
 ## Acknowledgment
 This work was supported by research grants of the programs: Science Without Borders (Ciências sem Fronteiras - CsF), Brazilian Space Agency (Agência Espacial Brasileira - AEB).
