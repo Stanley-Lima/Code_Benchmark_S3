@@ -1,35 +1,13 @@
-Service Interface Transducer for Rapid Prototyping
-(☺) 2016 Josef Spillner <josef.spillner@zhaw.ch>
-================================================
-
-File structure:
----------------
-├── cli
-│   ├── transducer                    -> start isolated instance (venv+docker)
-│   └── impl
-│       ├── Dockerfile                -> containerisation
-│       └── ramlincludes.py           -> helper script to extract dependencies
-├── doc
-│   ├── transducer-architecture.dia   -> architecture figure source
-│   └── transducer-architecture.png   -> architecture figure
-├── example
-│   ├── api.raml                      -> service description, references .json
-│   └── items.json                    -> data schema definition
-├── install-isolated.sh               -> basic install script
-├── install-shared.sh                 -> extended install script for service
-├── README                            -> this file
-├── service
-│   ├── transducer-service            -> web service
-│   ├── transducer-shared             -> start shared instance
-│   └── testservice                   -> test invocation client
-└── web
-    ├── css
-    │   └── bootstrap.min.css         -> style sheet for web app
-    └── index.html                    -> web app
-
 # MIT - MIcroservice Trade-offs
 
+DEI | Informatics Engineering Department 
+(☺) 2018 PhD student Stanley Lima <stanleylima@dei.uc.pt> Advisors: Filipe Araujo and Josef Spillner
+
+================================================
+
+
 **Data getting final causality consistent guarantee on eventually consistent data store**
+
 ![benchmark-1-page-3](https://user-images.githubusercontent.com/7977251/43281928-ccee4180-910c-11e8-9f59-85cd05a00e1a.png)
 
 This experiment was developed under the PDCTI | DOCTORAL PLAN IN INFORMATION SCIENCES AND TECHNOLOGIES.
@@ -94,9 +72,13 @@ If you have all configurations performed, you can use the "runAllMicrocervices.b
 This code is Open-source, and would greatly appreciate your help. Feel free to contact me with any questions.
 
 Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
-Copyright (C) 2017, 2018 Stanley Lima <stanleylima@dei.uc.pt>
+Copyright (C) 2017, 2018 Stanley Lima
 
 ## Acknowledgment
 This work was supported by research grants of the programs: Science Without Borders (Ciências sem Fronteiras - CsF), Brazilian Space Agency (Agência Espacial Brasileira - AEB).
+
+File structure:
+---------------
+![file structure](https://user-images.githubusercontent.com/7977251/43429093-7bc44e1c-9459-11e8-90db-7661b1565276.png)
 	
 	
