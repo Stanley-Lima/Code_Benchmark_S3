@@ -1,32 +1,3 @@
-Service Interface Transducer for Rapid Prototyping
-(☺) 2016 Josef Spillner <josef.spillner@zhaw.ch>
-================================================
-
-File structure:
----------------
-├── cli
-│   ├── transducer                    -> start isolated instance (venv+docker)
-│   └── impl
-│       ├── Dockerfile                -> containerisation
-│       └── ramlincludes.py           -> helper script to extract dependencies
-├── doc
-│   ├── transducer-architecture.dia   -> architecture figure source
-│   └── transducer-architecture.png   -> architecture figure
-├── example
-│   ├── api.raml                      -> service description, references .json
-│   └── items.json                    -> data schema definition
-├── install-isolated.sh               -> basic install script
-├── install-shared.sh                 -> extended install script for service
-├── README                            -> this file
-├── service
-│   ├── transducer-service            -> web service
-│   ├── transducer-shared             -> start shared instance
-│   └── testservice                   -> test invocation client
-└── web
-    ├── css
-    │   └── bootstrap.min.css         -> style sheet for web app
-    └── index.html                    -> web app
-
 # MIT - MIcroservice Trade-offs
 
 **Data getting final causality consistent guarantee on eventually consistent data store**
@@ -98,5 +69,3 @@ Copyright (C) 2017, 2018 Stanley Lima <stanleylima@dei.uc.pt>
 
 ## Acknowledgment
 This work was supported by research grants of the programs: Science Without Borders (Ciências sem Fronteiras - CsF), Brazilian Space Agency (Agência Espacial Brasileira - AEB).
-	
-	
