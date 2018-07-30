@@ -79,6 +79,6 @@ This work was supported by research grants of the programs: Science Without Bord
 
 File structure:
 ---------------
-![file structure](https://user-images.githubusercontent.com/7977251/43429093-7bc44e1c-9459-11e8-90db-7661b1565276.png)
+![file structure](https://user-images.githubusercontent.com/7977251/43429528-c83e0d30-945b-11e8-9f09-3c9a4c3c99ea.png)
 	
 	
