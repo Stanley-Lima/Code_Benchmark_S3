@@ -18,7 +18,7 @@ Our results show that one can achieve quite reasonable results and still ensure 
 
 ![benchmark-1-page-3](https://user-images.githubusercontent.com/7977251/43281928-ccee4180-910c-11e8-9f59-85cd05a00e1a.png)
 
-Were submitted to Journal of xxxxxx. See full article: `https://www.journals.xxxxx` modify for direct link when paper is online.
+This architecture refers to scenario 1, the other architectures as well as the details of the experiments can be seen full article: `https://www.journals.xxxxx` modify for direct link.
 
 
 
