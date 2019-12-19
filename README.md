@@ -1,10 +1,9 @@
-# The article - Right After Causal Consistency is Dependability for Cloud Storage Services: Throughput Lessons Learnt from Long-Term Experimental Research
+# The article -> Right After Causal Consistency is Dependability for Cloud Storage Services: Throughput Lessons Learnt from Long-Term Experimental Research
 
 Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
 
  2019 PhD student Stanley Lima <stanleylima@dei.uc.pt> Advisors: Filipe Araujo and Josef Spillner
 
-This experiment was developed under the PDCTI | DOCTORAL PLAN ON: DEI | Informatics Engineering Department .
 
 ================================================
 Abstract: For the sake of offering highly available, low latency services, cloud storage systems explicitly drop strong consistency requirements. This is unacceptable for applications requiring fresh data. That is, loosen the coupling in favor of reliability to achieve a stronger than eventual level of consistency. While the PACELC theorem explicitly prevents consistent storage from being fast, we can nevertheless explore the trade-off between consistency, availability, and partition tolerance in distributed storage systems in order to get fast access to data.
@@ -84,5 +83,8 @@ This work was supported by research grants of the programs: Science Without Bord
 File structure:
 ---------------
 ![file structure](https://user-images.githubusercontent.com/7977251/43429685-96be26f4-945c-11e8-89d2-a42580b00dd1.jpg)
-	
+
+
+This experiment was developed under the PDCTI | DOCTORAL PLAN ON: DEI (Informatics Engineering Department).
+
 	
