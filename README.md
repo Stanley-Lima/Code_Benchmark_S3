@@ -63,7 +63,6 @@ Maven Dependency:
 - ```start /b java -jar server/target/server-1.0-SNAPSHOT```
 - ```start /b java -jar writer/target/writer-1.0-SNAPSHOT```
 - ```//java -jar reader/target/reader-1.0-SNAPSHOT```
-- ```//Server class S3ServerReaderSocketInputHandlerFactory, (ServerFrame, ClientWrite, ClientReader) or runClientWriterServer.bat```
 If you have all configurations performed, you can use the "runAllMicrocervices.bat" file to run all microservices together.
 ##### Notes
 - choose different ports for communication between the microservice. (e.g. `9999` to `Writer C1` and `2222` to `Reader C2`).
