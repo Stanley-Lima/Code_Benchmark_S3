@@ -1,18 +1,25 @@
-# MIT - MIcroservice Trade-offs
+# The article - Right After Causal Consistency is Dependability for Cloud Storage Services: Throughput Lessons Learnt from Long-Term Experimental Research
 
-DEI | Informatics Engineering Department 
-(☺) 2018 PhD student Stanley Lima <stanleylima@dei.uc.pt> Advisors: Filipe Araujo and Josef Spillner
+Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
+
+ 2019 PhD student Stanley Lima <stanleylima@dei.uc.pt> Advisors: Filipe Araujo and Josef Spillner
+
+This experiment was developed under the PDCTI | DOCTORAL PLAN ON: DEI | Informatics Engineering Department .
 
 ================================================
+Abstract: For the sake of offering highly available, low latency services, cloud storage systems explicitly drop strong consistency requirements. This is unacceptable for applications requiring fresh data. That is, loosen the coupling in favor of reliability to achieve a stronger than eventual level of consistency. While the PACELC theorem explicitly prevents consistent storage from being fast, we can nevertheless explore the trade-off between consistency, availability, and partition tolerance in distributed storage systems in order to get fast access to data.
+This paper describes our effort to achieve a good trade-off between performance and a causal consistency model.
+We evaluated a set of algorithms running on Amazon EC2 capable of ensuring causal consistency to the S3 cross-region replication service (CRR) and compare them against a baseline eventual implementation.
+Our results show that one can achieve quite reasonable results and still ensure the quite useful causal consistency model.
 
 
-**Data getting final causality consistent guarantee on eventually consistent data store**
+
+**Benchmarking -Scenario-1: Repeating read attempts from replica**
 
 ![benchmark-1-page-3](https://user-images.githubusercontent.com/7977251/43281928-ccee4180-910c-11e8-9f59-85cd05a00e1a.png)
 
-This experiment was developed under the PDCTI | DOCTORAL PLAN IN INFORMATION SCIENCES AND TECHNOLOGIES.
-The different lemmas, experimental results and analysis of the  different strategies for implementing Causal order and different benchmarks for performance comparison of these strategies, were submitted to Journal of parallel and distributed computing.
-See full article: `https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/editorial-board` modify for direct link when paper is online.
+Were submitted to Journal of xxxxxx. See full article: `https://www.journals.xxxxx` modify for direct link when paper is online.
+
 
 
 
@@ -69,10 +76,7 @@ If you have all configurations performed, you can use the "runAllMicrocervices.b
 
 ## Feedback welcome
 
-This code is Open-source, and would greatly appreciate your help. Feel free to contact me with any questions.
-
-Centre for Informatics and Systems of the University of Coimbra (CISUC), Portugal and Service Prototyping Lab, Zurich University of Applied Sciences, Winterthur, 8400 Switzerland
-Copyright (C) 2017, 2018 Stanley Lima
+Feel free to contact me with any questions.
 
 ## Acknowledgment
 This work was supported by research grants of the programs: Science Without Borders (Ciências sem Fronteiras - CsF), Brazilian Space Agency (Agência Espacial Brasileira - AEB).
